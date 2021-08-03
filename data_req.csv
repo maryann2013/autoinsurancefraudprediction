@@ -1,0 +1,1001 @@
+insured_hobbies_new,collision_type_new,months_as_customer_groups,policy_deductable,incident_severity,vehicle_claim_groups,umbrella_limit,number_of_vehicles_involved,bodily_injuries,witnesses,incident_type,authorities_contacted,police_report_available_new
+other,Side Collision,301-350,1000,Major Damage,50001-60000,0,1,1,2,Single Vehicle Collision,Police,YES
+other,other,201-250,2000,Minor Damage,0-10000,5000000,1,0,0,Vehicle Theft,Police,other
+other,Rear Collision,101-150,2000,Minor Damage,20001-30000,5000000,3,2,3,Multi-vehicle Collision,Police,NO
+other,Front Collision,251-300,2000,Major Damage,50001-60000,6000000,1,1,2,Single Vehicle Collision,Police,NO
+other,other,201-250,1000,Minor Damage,0-10000,6000000,1,0,1,Vehicle Theft,None,NO
+other,Rear Collision,251-300,1000,Major Damage,50001-60000,0,3,0,2,Multi-vehicle Collision,Fire,NO
+other,Front Collision,101-150,1000,Minor Damage,50001-60000,0,3,0,0,Multi-vehicle Collision,Police,other
+other,Front Collision,151-200,1000,Total Loss,30001-40000,0,3,2,2,Multi-vehicle Collision,Police,YES
+other,Front Collision,0-50,500,Total Loss,20001-30000,0,1,1,1,Single Vehicle Collision,Police,YES
+other,Rear Collision,201-250,500,Total Loss,30001-40000,0,1,2,1,Single Vehicle Collision,Other,other
+other,Front Collision,201-250,500,Total Loss,60001-70000,4000000,1,2,2,Single Vehicle Collision,Police,other
+other,Front Collision,451-500,2000,Major Damage,70001-80000,0,3,1,2,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,51-100,500,Total Loss,40001-50000,3000000,1,1,0,Single Vehicle Collision,Ambulance,NO
+other,other,101-150,1000,Minor Damage,0-10000,0,1,1,1,Parked Car,None,NO
+other,Rear Collision,151-200,2000,Total Loss,30001-40000,0,1,0,2,Single Vehicle Collision,Police,YES
+other,Side Collision,451-500,2000,Major Damage,40001-50000,0,4,0,0,Multi-vehicle Collision,Other,NO
+other,Rear Collision,51-100,1000,Major Damage,40001-50000,5000000,3,1,2,Multi-vehicle Collision,Other,YES
+other,Side Collision,101-150,500,Total Loss,50001-60000,6000000,1,0,2,Single Vehicle Collision,Police,YES
+other,Side Collision,151-200,500,Total Loss,50001-60000,0,1,1,0,Single Vehicle Collision,Other,NO
+other,Side Collision,201-250,2000,Major Damage,40001-50000,0,3,2,0,Multi-vehicle Collision,Police,NO
+other,Rear Collision,451-500,1000,Minor Damage,40001-50000,4000000,3,1,0,Multi-vehicle Collision,Police,other
+other,Side Collision,201-250,2000,Total Loss,30001-40000,0,3,1,2,Multi-vehicle Collision,Police,other
+other,Rear Collision,351-400,2000,Major Damage,40001-50000,0,3,0,0,Multi-vehicle Collision,Ambulance,YES
+chess,Front Collision,401-450,2000,Total Loss,70001-80000,0,1,2,2,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,201-250,1000,Minor Damage,50001-60000,0,1,1,3,Single Vehicle Collision,Other,NO
+other,Rear Collision,0-50,2000,Major Damage,40001-50000,0,3,1,3,Multi-vehicle Collision,Other,YES
+other,other,251-300,2000,Minor Damage,0-10000,0,1,1,3,Parked Car,Police,YES
+chess,other,201-250,500,Minor Damage,0-10000,3000000,1,2,1,Vehicle Theft,None,other
+other,Side Collision,201-250,2000,Minor Damage,40001-50000,0,1,1,0,Single Vehicle Collision,Other,YES
+other,Rear Collision,251-300,2000,Minor Damage,60001-70000,0,1,2,2,Single Vehicle Collision,Police,NO
+other,Side Collision,51-100,1000,Major Damage,50001-60000,0,4,0,0,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,151-200,2000,Major Damage,50001-60000,8000000,3,2,2,Multi-vehicle Collision,Police,other
+other,Front Collision,151-200,1000,Total Loss,20001-30000,0,3,2,3,Multi-vehicle Collision,Police,NO
+other,Front Collision,101-150,1000,Major Damage,40001-50000,0,3,1,2,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,151-200,500,Total Loss,40001-50000,0,1,0,1,Single Vehicle Collision,Fire,YES
+other,Front Collision,151-200,1000,Major Damage,30001-40000,6000000,1,2,0,Single Vehicle Collision,Other,YES
+other,Rear Collision,51-100,1000,Total Loss,40001-50000,0,1,1,1,Single Vehicle Collision,Police,YES
+other,other,301-350,2000,Minor Damage,0-10000,0,1,1,1,Parked Car,None,YES
+other,Rear Collision,401-450,2000,Major Damage,40001-50000,0,3,2,0,Multi-vehicle Collision,Police,other
+other,Front Collision,201-250,500,Major Damage,30001-40000,0,1,0,3,Single Vehicle Collision,Ambulance,NO
+other,Rear Collision,51-100,500,Minor Damage,20001-30000,0,1,2,2,Single Vehicle Collision,Ambulance,other
+chess,Side Collision,101-150,500,Major Damage,60001-70000,0,1,1,1,Single Vehicle Collision,Police,other
+other,Side Collision,0-50,500,Minor Damage,40001-50000,0,3,1,0,Multi-vehicle Collision,Other,NO
+other,Rear Collision,101-150,500,Total Loss,30001-40000,0,1,2,2,Single Vehicle Collision,Other,NO
+other,Front Collision,251-300,2000,Minor Damage,30001-40000,0,1,0,2,Single Vehicle Collision,Other,other
+other,Rear Collision,251-300,1000,Total Loss,40001-50000,0,3,2,3,Multi-vehicle Collision,Other,other
+other,Rear Collision,151-200,500,Total Loss,60001-70000,0,3,1,1,Multi-vehicle Collision,Fire,other
+other,Front Collision,351-400,2000,Major Damage,50001-60000,4000000,3,2,1,Multi-vehicle Collision,Fire,NO
+other,other,151-200,1000,Trivial Damage,0-10000,8000000,1,2,0,Vehicle Theft,Police,YES
+other,Rear Collision,201-250,1000,Total Loss,50001-60000,0,1,0,0,Single Vehicle Collision,Other,other
+other,Front Collision,401-450,2000,Minor Damage,50001-60000,7000000,3,0,3,Multi-vehicle Collision,Fire,YES
+other,other,51-100,2000,Trivial Damage,0-10000,0,1,1,2,Vehicle Theft,None,other
+other,other,201-250,1000,Minor Damage,0-10000,0,1,2,1,Vehicle Theft,None,YES
+other,Side Collision,201-250,500,Major Damage,40001-50000,0,3,1,0,Multi-vehicle Collision,Police,other
+other,other,201-250,1000,Minor Damage,0-10000,0,1,0,1,Parked Car,Police,YES
+other,Rear Collision,0-50,1000,Minor Damage,50001-60000,0,1,1,2,Single Vehicle Collision,Fire,NO
+chess,Front Collision,451-500,500,Major Damage,50001-60000,0,3,2,3,Multi-vehicle Collision,Fire,other
+other,other,51-100,1000,Minor Damage,0-10000,0,1,1,3,Parked Car,None,NO
+other,Front Collision,0-50,2000,Total Loss,50001-60000,0,1,0,1,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,151-200,2000,Minor Damage,40001-50000,0,3,1,1,Multi-vehicle Collision,Police,NO
+other,Rear Collision,151-200,500,Major Damage,50001-60000,0,3,2,1,Multi-vehicle Collision,Police,other
+other,Side Collision,251-300,1000,Total Loss,30001-40000,0,3,0,3,Multi-vehicle Collision,Other,NO
+other,Side Collision,101-150,1000,Minor Damage,30001-40000,0,1,0,3,Single Vehicle Collision,Other,YES
+other,Front Collision,201-250,500,Major Damage,50001-60000,0,3,2,2,Multi-vehicle Collision,Fire,YES
+chess,Rear Collision,301-350,2000,Total Loss,40001-50000,5000000,3,0,0,Multi-vehicle Collision,Fire,NO
+chess,Front Collision,251-300,500,Minor Damage,60001-70000,0,3,2,2,Multi-vehicle Collision,Ambulance,NO
+other,Side Collision,101-150,500,Minor Damage,60001-70000,7000000,1,0,1,Single Vehicle Collision,Fire,NO
+other,Side Collision,451-500,500,Minor Damage,30001-40000,0,3,1,1,Multi-vehicle Collision,Fire,NO
+other,Front Collision,101-150,1000,Major Damage,50001-60000,0,1,0,3,Single Vehicle Collision,Ambulance,NO
+other,other,351-400,1000,Minor Damage,0-10000,0,1,0,1,Parked Car,None,other
+other,Side Collision,251-300,500,Major Damage,40001-50000,0,2,2,3,Multi-vehicle Collision,Other,other
+cross-fit,Front Collision,201-250,2000,Total Loss,40001-50000,0,1,0,2,Single Vehicle Collision,Other,NO
+other,Rear Collision,201-250,1000,Minor Damage,20001-30000,0,1,1,2,Single Vehicle Collision,Ambulance,NO
+other,Rear Collision,201-250,500,Minor Damage,40001-50000,0,3,2,0,Multi-vehicle Collision,Fire,YES
+other,Side Collision,201-250,1000,Minor Damage,20001-30000,0,3,1,0,Multi-vehicle Collision,Ambulance,YES
+other,Front Collision,101-150,1000,Total Loss,30001-40000,0,3,2,0,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,251-300,1000,Minor Damage,60001-70000,0,3,1,1,Multi-vehicle Collision,Fire,YES
+other,Front Collision,301-350,500,Total Loss,30001-40000,0,3,0,2,Multi-vehicle Collision,Police,other
+other,other,201-250,1000,Minor Damage,0-10000,6000000,1,2,2,Vehicle Theft,None,YES
+other,Rear Collision,201-250,500,Major Damage,50001-60000,0,1,1,2,Single Vehicle Collision,Fire,other
+other,Side Collision,101-150,2000,Minor Damage,30001-40000,0,3,1,2,Multi-vehicle Collision,Ambulance,NO
+other,other,251-300,2000,Trivial Damage,0-10000,5000000,1,2,1,Vehicle Theft,None,other
+other,other,51-100,1000,Minor Damage,0-10000,6000000,1,2,2,Vehicle Theft,Police,NO
+other,other,201-250,2000,Trivial Damage,0-10000,0,1,0,3,Vehicle Theft,None,YES
+other,Side Collision,251-300,2000,Major Damage,40001-50000,0,2,2,3,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,251-300,2000,Major Damage,40001-50000,0,3,0,1,Multi-vehicle Collision,Fire,other
+other,Front Collision,151-200,1000,Minor Damage,40001-50000,4000000,3,2,1,Multi-vehicle Collision,Other,other
+other,Side Collision,101-150,500,Total Loss,40001-50000,0,1,2,1,Single Vehicle Collision,Fire,YES
+other,other,0-50,2000,Trivial Damage,0-10000,9000000,1,0,1,Parked Car,None,YES
+other,Side Collision,0-50,1000,Major Damage,30001-40000,0,3,2,0,Multi-vehicle Collision,Other,other
+other,Front Collision,101-150,2000,Total Loss,40001-50000,5000000,2,1,1,Multi-vehicle Collision,Fire,other
+other,Side Collision,51-100,2000,Major Damage,70001-80000,4000000,1,0,3,Single Vehicle Collision,Police,other
+other,other,201-250,2000,Trivial Damage,0-10000,0,1,0,1,Parked Car,None,NO
+other,Front Collision,201-250,1000,Major Damage,50001-60000,0,3,1,1,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,251-300,500,Total Loss,60001-70000,0,3,1,0,Multi-vehicle Collision,Ambulance,NO
+other,other,51-100,2000,Minor Damage,0-10000,5000000,1,2,0,Vehicle Theft,None,YES
+other,Side Collision,301-350,1000,Major Damage,50001-60000,0,1,0,3,Single Vehicle Collision,Fire,NO
+other,Rear Collision,0-50,2000,Minor Damage,50001-60000,0,4,1,2,Multi-vehicle Collision,Other,YES
+other,other,301-350,1000,Trivial Damage,0-10000,0,1,1,2,Parked Car,None,YES
+other,other,201-250,1000,Trivial Damage,0-10000,0,1,0,0,Vehicle Theft,None,other
+other,Rear Collision,251-300,500,Minor Damage,40001-50000,0,1,0,0,Single Vehicle Collision,Police,other
+other,Side Collision,51-100,1000,Major Damage,30001-40000,0,1,1,0,Single Vehicle Collision,Police,YES
+other,Front Collision,251-300,500,Minor Damage,20001-30000,0,3,2,3,Multi-vehicle Collision,Fire,NO
+other,other,151-200,1000,Minor Damage,0-10000,0,1,1,1,Parked Car,Police,NO
+other,Side Collision,351-400,500,Total Loss,70001-80000,0,3,0,0,Multi-vehicle Collision,Police,other
+other,other,301-350,500,Minor Damage,0-10000,0,1,1,3,Vehicle Theft,None,YES
+other,Rear Collision,451-500,1000,Major Damage,50001-60000,0,3,0,2,Multi-vehicle Collision,Police,YES
+other,Front Collision,101-150,2000,Major Damage,50001-60000,0,2,1,0,Multi-vehicle Collision,Ambulance,other
+other,Front Collision,301-350,2000,Major Damage,40001-50000,0,1,0,0,Single Vehicle Collision,Fire,other
+chess,Rear Collision,51-100,1000,Major Damage,40001-50000,0,3,0,3,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,251-300,500,Minor Damage,50001-60000,0,1,1,2,Single Vehicle Collision,Police,YES
+other,Front Collision,451-500,500,Major Damage,40001-50000,6000000,1,0,0,Single Vehicle Collision,Fire,other
+other,Rear Collision,201-250,500,Total Loss,50001-60000,0,3,2,0,Multi-vehicle Collision,Other,NO
+other,Side Collision,151-200,1000,Major Damage,30001-40000,0,2,1,1,Multi-vehicle Collision,Other,other
+other,other,401-450,2000,Minor Damage,0-10000,0,1,1,1,Vehicle Theft,None,YES
+other,Side Collision,251-300,1000,Total Loss,30001-40000,10000000,3,0,1,Multi-vehicle Collision,Other,other
+other,Rear Collision,101-150,2000,Minor Damage,30001-40000,0,1,0,3,Single Vehicle Collision,Police,NO
+other,Side Collision,201-250,2000,Major Damage,50001-60000,0,3,2,2,Multi-vehicle Collision,Police,NO
+other,Rear Collision,151-200,2000,Minor Damage,60001-70000,0,1,1,3,Single Vehicle Collision,Fire,YES
+other,Rear Collision,251-300,500,Minor Damage,50001-60000,8000000,3,0,1,Multi-vehicle Collision,Police,other
+other,Side Collision,251-300,2000,Minor Damage,40001-50000,4000000,1,2,0,Single Vehicle Collision,Fire,other
+other,Front Collision,201-250,500,Major Damage,50001-60000,4000000,1,2,1,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,201-250,500,Major Damage,40001-50000,0,1,0,1,Single Vehicle Collision,Ambulance,YES
+other,Front Collision,0-50,2000,Total Loss,50001-60000,0,4,1,0,Multi-vehicle Collision,Other,NO
+other,Rear Collision,201-250,500,Total Loss,20001-30000,0,1,1,1,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,201-250,1000,Total Loss,20001-30000,6000000,3,2,3,Multi-vehicle Collision,Ambulance,YES
+other,Side Collision,151-200,2000,Total Loss,20001-30000,0,1,0,0,Single Vehicle Collision,Other,other
+other,other,151-200,500,Minor Damage,0-10000,0,1,2,0,Parked Car,Police,other
+other,Front Collision,251-300,2000,Major Damage,40001-50000,0,1,0,3,Single Vehicle Collision,Fire,YES
+other,Front Collision,51-100,1000,Major Damage,30001-40000,6000000,3,1,2,Multi-vehicle Collision,Fire,other
+other,Front Collision,251-300,1000,Minor Damage,50001-60000,0,3,1,2,Multi-vehicle Collision,Other,NO
+other,Front Collision,201-250,500,Major Damage,40001-50000,0,3,2,2,Multi-vehicle Collision,Other,NO
+other,Front Collision,101-150,500,Major Damage,30001-40000,0,3,0,1,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,0-50,1000,Total Loss,30001-40000,0,1,2,1,Single Vehicle Collision,Police,NO
+other,Side Collision,51-100,2000,Minor Damage,50001-60000,0,1,1,1,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,151-200,2000,Major Damage,40001-50000,0,1,1,2,Single Vehicle Collision,Police,other
+other,other,201-250,1000,Minor Damage,0-10000,0,1,0,0,Vehicle Theft,Police,NO
+other,Rear Collision,101-150,1000,Minor Damage,50001-60000,0,3,0,3,Multi-vehicle Collision,Fire,other
+other,Rear Collision,301-350,500,Minor Damage,50001-60000,0,3,1,2,Multi-vehicle Collision,Fire,YES
+other,Front Collision,101-150,1000,Total Loss,40001-50000,0,3,0,2,Multi-vehicle Collision,Other,YES
+other,Rear Collision,201-250,2000,Total Loss,30001-40000,0,1,0,1,Single Vehicle Collision,Police,other
+other,other,251-300,2000,Trivial Damage,0-10000,0,1,2,3,Vehicle Theft,None,other
+other,other,101-150,1000,Minor Damage,0-10000,0,1,2,1,Parked Car,None,YES
+other,Rear Collision,0-50,2000,Major Damage,40001-50000,6000000,1,2,3,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,101-150,2000,Total Loss,30001-40000,0,3,0,3,Multi-vehicle Collision,Police,YES
+cross-fit,Front Collision,401-450,500,Major Damage,70001-80000,0,1,2,1,Single Vehicle Collision,Police,other
+other,Side Collision,201-250,500,Major Damage,40001-50000,4000000,3,2,0,Multi-vehicle Collision,Fire,NO
+other,Front Collision,201-250,500,Minor Damage,30001-40000,0,1,1,1,Single Vehicle Collision,Fire,other
+other,Rear Collision,51-100,1000,Major Damage,50001-60000,0,1,2,3,Single Vehicle Collision,Other,other
+other,Side Collision,201-250,500,Major Damage,70001-80000,0,1,1,0,Single Vehicle Collision,Other,YES
+other,Side Collision,101-150,1000,Total Loss,60001-70000,0,1,1,0,Single Vehicle Collision,Other,other
+other,Rear Collision,301-350,1000,Major Damage,30001-40000,0,3,2,1,Multi-vehicle Collision,Fire,other
+other,Rear Collision,101-150,500,Total Loss,40001-50000,0,3,1,3,Multi-vehicle Collision,Police,YES
+other,Rear Collision,401-450,1000,Total Loss,40001-50000,0,3,2,3,Multi-vehicle Collision,Fire,other
+other,Rear Collision,101-150,1000,Minor Damage,30001-40000,7000000,3,1,3,Multi-vehicle Collision,Ambulance,other
+other,Front Collision,351-400,1000,Major Damage,30001-40000,0,1,2,3,Single Vehicle Collision,Police,NO
+other,Rear Collision,451-500,2000,Minor Damage,50001-60000,0,3,2,1,Multi-vehicle Collision,Police,YES
+other,other,401-450,500,Minor Damage,0-10000,7000000,1,2,3,Parked Car,None,NO
+other,Front Collision,0-50,1000,Total Loss,50001-60000,0,3,2,0,Multi-vehicle Collision,Ambulance,other
+other,other,101-150,500,Minor Damage,0-10000,0,1,2,0,Vehicle Theft,Police,other
+other,other,201-250,1000,Minor Damage,0-10000,0,1,2,3,Parked Car,Police,other
+other,Front Collision,251-300,2000,Total Loss,50001-60000,7000000,1,2,0,Single Vehicle Collision,Ambulance,other
+other,Side Collision,301-350,1000,Total Loss,50001-60000,0,2,2,1,Multi-vehicle Collision,Ambulance,YES
+other,Front Collision,101-150,1000,Major Damage,70001-80000,0,1,2,0,Single Vehicle Collision,Fire,NO
+other,Rear Collision,101-150,500,Total Loss,60001-70000,0,3,2,0,Multi-vehicle Collision,Fire,YES
+other,Side Collision,101-150,1000,Minor Damage,40001-50000,0,3,2,2,Multi-vehicle Collision,Ambulance,YES
+other,Rear Collision,0-50,2000,Major Damage,40001-50000,0,1,2,1,Single Vehicle Collision,Fire,YES
+other,Front Collision,301-350,1000,Minor Damage,40001-50000,0,3,0,0,Multi-vehicle Collision,Ambulance,NO
+other,other,251-300,500,Trivial Damage,0-10000,0,1,0,1,Parked Car,Police,NO
+other,other,0-50,2000,Minor Damage,0-10000,0,1,1,0,Parked Car,None,NO
+other,Rear Collision,201-250,500,Minor Damage,30001-40000,0,3,0,0,Multi-vehicle Collision,Police,other
+other,Rear Collision,101-150,2000,Total Loss,40001-50000,0,1,0,1,Single Vehicle Collision,Ambulance,YES
+other,Rear Collision,51-100,1000,Total Loss,30001-40000,0,3,1,0,Multi-vehicle Collision,Other,other
+other,Front Collision,0-50,500,Major Damage,20001-30000,4000000,3,0,2,Multi-vehicle Collision,Fire,YES
+other,other,301-350,1000,Trivial Damage,0-10000,0,1,0,1,Vehicle Theft,None,NO
+other,Rear Collision,301-350,2000,Minor Damage,40001-50000,6000000,1,1,0,Single Vehicle Collision,Other,YES
+other,Front Collision,151-200,500,Minor Damage,60001-70000,0,1,1,1,Single Vehicle Collision,Ambulance,YES
+other,Rear Collision,251-300,1000,Minor Damage,40001-50000,0,1,0,1,Single Vehicle Collision,Fire,other
+other,Front Collision,251-300,500,Total Loss,50001-60000,0,1,0,1,Single Vehicle Collision,Other,NO
+other,other,201-250,500,Trivial Damage,0-10000,4000000,1,2,1,Vehicle Theft,None,NO
+other,Side Collision,51-100,2000,Major Damage,30001-40000,0,3,2,0,Multi-vehicle Collision,Fire,YES
+other,Side Collision,401-450,2000,Minor Damage,60001-70000,0,1,2,3,Single Vehicle Collision,Police,other
+other,Side Collision,101-150,500,Total Loss,50001-60000,4000000,1,2,3,Single Vehicle Collision,Police,NO
+cross-fit,Rear Collision,51-100,500,Minor Damage,50001-60000,7000000,1,1,1,Single Vehicle Collision,Police,YES
+other,Front Collision,301-350,1000,Major Damage,40001-50000,7000000,1,0,2,Single Vehicle Collision,Ambulance,NO
+cross-fit,Front Collision,101-150,500,Total Loss,60001-70000,7000000,1,2,3,Single Vehicle Collision,Fire,NO
+other,Front Collision,151-200,2000,Total Loss,10001-20000,0,3,1,1,Multi-vehicle Collision,Ambulance,NO
+other,other,201-250,2000,Minor Damage,0-10000,0,1,1,3,Vehicle Theft,Police,YES
+other,Rear Collision,51-100,500,Major Damage,50001-60000,5000000,3,1,0,Multi-vehicle Collision,Other,other
+other,Rear Collision,101-150,1000,Total Loss,60001-70000,0,1,0,2,Single Vehicle Collision,Ambulance,YES
+other,other,451-500,2000,Minor Damage,0-10000,0,1,0,1,Parked Car,None,YES
+other,Side Collision,251-300,1000,Minor Damage,30001-40000,0,1,1,2,Single Vehicle Collision,Police,other
+other,Front Collision,351-400,2000,Total Loss,30001-40000,0,1,0,3,Single Vehicle Collision,Police,NO
+other,other,0-50,1000,Minor Damage,0-10000,0,1,1,1,Vehicle Theft,Police,YES
+other,Rear Collision,51-100,2000,Total Loss,30001-40000,4000000,3,0,1,Multi-vehicle Collision,Other,YES
+other,Side Collision,251-300,1000,Total Loss,40001-50000,0,2,2,3,Multi-vehicle Collision,Fire,NO
+other,other,201-250,2000,Trivial Damage,0-10000,0,1,1,1,Vehicle Theft,Police,NO
+other,other,201-250,500,Trivial Damage,0-10000,0,1,0,3,Parked Car,None,other
+other,Front Collision,301-350,500,Major Damage,40001-50000,0,1,2,1,Single Vehicle Collision,Ambulance,NO
+other,other,251-300,2000,Minor Damage,0-10000,0,1,1,1,Vehicle Theft,Police,other
+other,other,0-50,2000,Trivial Damage,0-10000,0,1,2,1,Vehicle Theft,Police,YES
+other,Rear Collision,351-400,500,Minor Damage,60001-70000,0,1,2,0,Single Vehicle Collision,Fire,YES
+other,other,201-250,2000,Trivial Damage,0-10000,7000000,1,0,2,Parked Car,Police,NO
+other,Rear Collision,451-500,500,Major Damage,50001-60000,0,3,0,3,Multi-vehicle Collision,Fire,other
+other,Rear Collision,251-300,2000,Total Loss,10001-20000,0,3,1,2,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,201-250,500,Minor Damage,40001-50000,0,1,2,1,Single Vehicle Collision,Police,NO
+chess,Rear Collision,101-150,2000,Total Loss,40001-50000,0,1,1,0,Single Vehicle Collision,Fire,NO
+other,Side Collision,101-150,500,Major Damage,50001-60000,0,3,0,3,Multi-vehicle Collision,Police,YES
+other,Side Collision,351-400,500,Total Loss,40001-50000,3000000,4,2,3,Multi-vehicle Collision,Police,NO
+other,other,401-450,500,Trivial Damage,0-10000,0,1,0,1,Parked Car,Police,NO
+other,other,51-100,2000,Minor Damage,0-10000,0,1,2,0,Vehicle Theft,Police,NO
+other,other,201-250,2000,Trivial Damage,0-10000,0,1,1,2,Vehicle Theft,None,other
+other,Side Collision,301-350,1000,Minor Damage,20001-30000,6000000,3,2,3,Multi-vehicle Collision,Ambulance,YES
+other,Side Collision,0-50,2000,Major Damage,30001-40000,0,3,1,0,Multi-vehicle Collision,Other,other
+cross-fit,Side Collision,101-150,2000,Total Loss,60001-70000,5000000,1,1,3,Single Vehicle Collision,Other,other
+other,Side Collision,251-300,1000,Minor Damage,50001-60000,0,3,1,2,Multi-vehicle Collision,Ambulance,YES
+other,Front Collision,51-100,2000,Minor Damage,40001-50000,0,1,2,2,Single Vehicle Collision,Fire,NO
+other,other,0-50,1000,Trivial Damage,0-10000,0,1,2,1,Vehicle Theft,None,NO
+other,Rear Collision,301-350,500,Total Loss,50001-60000,0,1,2,3,Single Vehicle Collision,Other,other
+other,Side Collision,251-300,1000,Minor Damage,40001-50000,6000000,3,1,0,Multi-vehicle Collision,Fire,NO
+other,Front Collision,251-300,2000,Major Damage,40001-50000,0,1,1,2,Single Vehicle Collision,Other,YES
+other,Front Collision,301-350,500,Minor Damage,10001-20000,0,1,2,2,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,301-350,1000,Total Loss,30001-40000,0,1,0,0,Single Vehicle Collision,Fire,NO
+other,Side Collision,351-400,500,Total Loss,40001-50000,4000000,3,1,1,Multi-vehicle Collision,Fire,NO
+other,Side Collision,251-300,2000,Major Damage,50001-60000,0,3,0,3,Multi-vehicle Collision,Fire,YES
+other,Front Collision,251-300,2000,Total Loss,50001-60000,0,1,0,1,Single Vehicle Collision,Ambulance,YES
+other,Rear Collision,351-400,1000,Minor Damage,60001-70000,7000000,2,2,0,Multi-vehicle Collision,Other,other
+other,Front Collision,351-400,1000,Major Damage,30001-40000,0,1,0,2,Single Vehicle Collision,Other,NO
+other,Front Collision,351-400,500,Total Loss,40001-50000,0,3,1,3,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,151-200,1000,Minor Damage,50001-60000,0,1,0,3,Single Vehicle Collision,Other,NO
+other,Side Collision,151-200,1000,Total Loss,40001-50000,0,1,0,2,Single Vehicle Collision,Other,YES
+other,Side Collision,301-350,1000,Minor Damage,20001-30000,6000000,1,2,3,Single Vehicle Collision,Police,YES
+other,Side Collision,201-250,500,Total Loss,50001-60000,0,4,2,1,Multi-vehicle Collision,Other,YES
+other,Rear Collision,151-200,2000,Major Damage,50001-60000,0,3,2,0,Multi-vehicle Collision,Police,NO
+other,Front Collision,0-50,2000,Major Damage,30001-40000,0,3,0,2,Multi-vehicle Collision,Other,YES
+other,Side Collision,401-450,2000,Minor Damage,50001-60000,0,3,1,0,Multi-vehicle Collision,Fire,other
+other,Front Collision,101-150,1000,Total Loss,30001-40000,3000000,1,1,1,Single Vehicle Collision,Fire,NO
+cross-fit,Rear Collision,101-150,2000,Total Loss,50001-60000,0,3,2,3,Multi-vehicle Collision,Fire,NO
+other,Side Collision,251-300,2000,Major Damage,50001-60000,0,1,1,1,Single Vehicle Collision,Other,other
+other,Front Collision,151-200,1000,Minor Damage,30001-40000,0,1,1,1,Single Vehicle Collision,Fire,other
+cross-fit,Front Collision,251-300,1000,Major Damage,40001-50000,0,1,0,0,Single Vehicle Collision,Fire,YES
+other,Front Collision,151-200,2000,Major Damage,50001-60000,0,1,2,0,Single Vehicle Collision,Other,NO
+other,other,151-200,2000,Trivial Damage,0-10000,0,1,2,1,Parked Car,None,YES
+other,Rear Collision,151-200,2000,Total Loss,40001-50000,0,3,2,2,Multi-vehicle Collision,Ambulance,NO
+other,other,51-100,1000,Trivial Damage,0-10000,0,1,1,2,Vehicle Theft,None,NO
+other,Rear Collision,351-400,1000,Major Damage,50001-60000,0,1,0,3,Single Vehicle Collision,Fire,YES
+other,Side Collision,0-50,1000,Minor Damage,40001-50000,0,1,0,2,Single Vehicle Collision,Fire,YES
+chess,Rear Collision,251-300,500,Total Loss,60001-70000,4000000,3,0,1,Multi-vehicle Collision,Ambulance,other
+other,other,101-150,1000,Minor Damage,0-10000,0,1,0,3,Parked Car,None,NO
+other,Rear Collision,51-100,2000,Major Damage,50001-60000,0,1,1,3,Single Vehicle Collision,Fire,YES
+other,Rear Collision,101-150,500,Total Loss,40001-50000,0,2,0,1,Multi-vehicle Collision,Fire,other
+other,Side Collision,101-150,500,Major Damage,50001-60000,5000000,3,1,2,Multi-vehicle Collision,Police,NO
+other,other,251-300,500,Trivial Damage,0-10000,0,1,1,1,Vehicle Theft,Police,NO
+other,Side Collision,451-500,500,Major Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Fire,NO
+other,Rear Collision,0-50,1000,Major Damage,40001-50000,0,3,2,2,Multi-vehicle Collision,Fire,NO
+other,Side Collision,451-500,500,Major Damage,30001-40000,7000000,3,0,1,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,201-250,500,Total Loss,30001-40000,0,3,1,0,Multi-vehicle Collision,Other,YES
+cross-fit,Side Collision,251-300,2000,Major Damage,30001-40000,0,1,0,1,Single Vehicle Collision,Police,NO
+other,other,251-300,500,Trivial Damage,0-10000,0,1,1,3,Vehicle Theft,Police,YES
+other,Rear Collision,101-150,2000,Major Damage,30001-40000,0,3,0,2,Multi-vehicle Collision,Fire,YES
+other,other,101-150,1000,Trivial Damage,0-10000,0,1,0,1,Parked Car,None,NO
+other,Front Collision,151-200,2000,Major Damage,40001-50000,0,1,2,0,Single Vehicle Collision,Police,other
+other,Rear Collision,201-250,500,Major Damage,40001-50000,8000000,3,0,1,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,251-300,2000,Minor Damage,40001-50000,7000000,3,1,1,Multi-vehicle Collision,Police,other
+other,Side Collision,51-100,2000,Minor Damage,40001-50000,0,1,1,0,Single Vehicle Collision,Police,YES
+other,other,401-450,500,Trivial Damage,0-10000,0,1,1,0,Vehicle Theft,Police,NO
+other,Side Collision,251-300,1000,Major Damage,30001-40000,0,3,2,2,Multi-vehicle Collision,Fire,other
+other,Rear Collision,0-50,2000,Minor Damage,50001-60000,0,3,0,0,Multi-vehicle Collision,Fire,other
+other,Rear Collision,151-200,500,Major Damage,30001-40000,0,3,0,3,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,201-250,2000,Total Loss,50001-60000,0,3,2,3,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,351-400,2000,Minor Damage,60001-70000,0,3,2,0,Multi-vehicle Collision,Police,YES
+other,other,251-300,1000,Minor Damage,0-10000,0,1,0,0,Parked Car,None,NO
+other,Front Collision,301-350,2000,Major Damage,40001-50000,0,4,2,0,Multi-vehicle Collision,Police,other
+other,Rear Collision,101-150,500,Minor Damage,30001-40000,0,3,1,0,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,201-250,2000,Minor Damage,40001-50000,0,3,0,2,Multi-vehicle Collision,Fire,other
+other,Front Collision,251-300,500,Major Damage,20001-30000,0,3,0,1,Multi-vehicle Collision,Ambulance,NO
+other,Side Collision,301-350,2000,Total Loss,50001-60000,0,3,1,2,Multi-vehicle Collision,Ambulance,NO
+cross-fit,Rear Collision,251-300,500,Minor Damage,40001-50000,0,1,1,0,Single Vehicle Collision,Other,other
+other,Side Collision,101-150,2000,Major Damage,40001-50000,0,3,0,1,Multi-vehicle Collision,Police,YES
+other,Side Collision,0-50,500,Minor Damage,40001-50000,6000000,3,2,1,Multi-vehicle Collision,Police,YES
+other,Side Collision,251-300,1000,Minor Damage,30001-40000,0,3,1,3,Multi-vehicle Collision,Fire,other
+cross-fit,other,151-200,1000,Trivial Damage,0-10000,0,1,2,1,Vehicle Theft,Police,other
+other,other,201-250,2000,Minor Damage,0-10000,0,1,0,0,Vehicle Theft,Police,YES
+other,Rear Collision,451-500,2000,Major Damage,40001-50000,5000000,1,0,2,Single Vehicle Collision,Police,other
+other,Side Collision,151-200,2000,Major Damage,50001-60000,0,3,1,3,Multi-vehicle Collision,Police,YES
+other,Front Collision,101-150,500,Total Loss,50001-60000,0,1,0,1,Single Vehicle Collision,Other,other
+other,Rear Collision,151-200,1000,Total Loss,40001-50000,6000000,3,2,0,Multi-vehicle Collision,Ambulance,NO
+other,other,201-250,500,Trivial Damage,0-10000,0,1,1,0,Vehicle Theft,None,NO
+other,Rear Collision,51-100,1000,Major Damage,50001-60000,0,1,1,2,Single Vehicle Collision,Ambulance,YES
+other,other,0-50,1000,Minor Damage,0-10000,4000000,1,0,2,Parked Car,Police,other
+other,Side Collision,251-300,500,Major Damage,60001-70000,-1000000,1,0,1,Single Vehicle Collision,Ambulance,other
+other,Front Collision,51-100,2000,Total Loss,30001-40000,0,3,0,2,Multi-vehicle Collision,Ambulance,NO
+other,Rear Collision,0-50,2000,Major Damage,30001-40000,0,3,1,0,Multi-vehicle Collision,Fire,NO
+other,Side Collision,151-200,1000,Minor Damage,70001-80000,0,1,2,2,Single Vehicle Collision,Fire,other
+other,Rear Collision,151-200,500,Minor Damage,40001-50000,0,4,1,2,Multi-vehicle Collision,Police,YES
+other,Side Collision,101-150,500,Total Loss,40001-50000,0,1,1,2,Single Vehicle Collision,Fire,NO
+other,Front Collision,201-250,2000,Minor Damage,50001-60000,0,3,2,2,Multi-vehicle Collision,Police,YES
+other,other,251-300,500,Trivial Damage,0-10000,0,1,2,3,Parked Car,Police,other
+other,other,201-250,500,Minor Damage,0-10000,0,1,1,0,Parked Car,None,other
+other,Rear Collision,101-150,2000,Major Damage,30001-40000,0,2,1,0,Multi-vehicle Collision,Other,other
+other,other,251-300,500,Trivial Damage,0-10000,0,1,1,3,Vehicle Theft,Police,NO
+other,Side Collision,101-150,2000,Total Loss,50001-60000,5000000,3,1,2,Multi-vehicle Collision,Police,other
+other,Rear Collision,51-100,2000,Major Damage,50001-60000,0,3,0,2,Multi-vehicle Collision,Police,other
+other,other,251-300,500,Trivial Damage,0-10000,5000000,1,0,2,Parked Car,Police,NO
+other,Rear Collision,251-300,500,Minor Damage,40001-50000,0,3,0,0,Multi-vehicle Collision,Other,NO
+other,Front Collision,151-200,500,Major Damage,20001-30000,0,1,2,1,Single Vehicle Collision,Other,YES
+other,Side Collision,101-150,500,Major Damage,30001-40000,2000000,1,1,1,Single Vehicle Collision,Fire,YES
+cross-fit,Rear Collision,151-200,500,Total Loss,40001-50000,0,3,1,2,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,151-200,1000,Total Loss,50001-60000,6000000,3,1,1,Multi-vehicle Collision,Other,YES
+other,Side Collision,151-200,2000,Total Loss,30001-40000,0,3,2,2,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,251-300,2000,Major Damage,50001-60000,0,3,2,2,Multi-vehicle Collision,Other,YES
+other,Front Collision,0-50,2000,Major Damage,20001-30000,0,3,0,3,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,151-200,2000,Total Loss,20001-30000,0,1,0,0,Single Vehicle Collision,Other,other
+other,Side Collision,451-500,1000,Total Loss,40001-50000,0,3,2,2,Multi-vehicle Collision,Police,NO
+other,Side Collision,51-100,2000,Minor Damage,50001-60000,8000000,3,2,0,Multi-vehicle Collision,Other,other
+other,Rear Collision,251-300,1000,Minor Damage,50001-60000,0,1,2,1,Single Vehicle Collision,Police,other
+other,Side Collision,251-300,1000,Total Loss,60001-70000,0,3,1,3,Multi-vehicle Collision,Other,other
+other,Side Collision,251-300,2000,Total Loss,40001-50000,0,3,1,1,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,0-50,500,Minor Damage,20001-30000,0,3,1,0,Multi-vehicle Collision,Police,other
+other,Side Collision,51-100,1000,Major Damage,40001-50000,0,1,0,1,Single Vehicle Collision,Other,YES
+other,Front Collision,201-250,2000,Total Loss,60001-70000,0,1,0,2,Single Vehicle Collision,Fire,YES
+other,Rear Collision,101-150,2000,Major Damage,40001-50000,0,3,0,3,Multi-vehicle Collision,Other,YES
+other,Front Collision,251-300,500,Total Loss,20001-30000,0,1,1,2,Single Vehicle Collision,Police,YES
+other,Rear Collision,351-400,500,Total Loss,20001-30000,0,3,0,2,Multi-vehicle Collision,Police,NO
+other,Rear Collision,101-150,1000,Major Damage,30001-40000,0,2,2,2,Multi-vehicle Collision,Other,NO
+other,Side Collision,401-450,2000,Total Loss,60001-70000,0,3,1,1,Multi-vehicle Collision,Police,YES
+other,Front Collision,301-350,2000,Total Loss,40001-50000,0,3,0,2,Multi-vehicle Collision,Fire,other
+other,Rear Collision,251-300,1000,Minor Damage,40001-50000,0,3,0,0,Multi-vehicle Collision,Police,other
+other,Side Collision,251-300,500,Major Damage,30001-40000,0,3,0,2,Multi-vehicle Collision,Other,YES
+other,Front Collision,51-100,1000,Major Damage,40001-50000,4000000,1,1,0,Single Vehicle Collision,Other,NO
+other,Side Collision,101-150,1000,Major Damage,20001-30000,0,1,2,3,Single Vehicle Collision,Fire,other
+other,Front Collision,251-300,2000,Major Damage,50001-60000,0,3,1,3,Multi-vehicle Collision,Ambulance,NO
+other,other,51-100,500,Trivial Damage,0-10000,0,1,2,2,Parked Car,None,other
+other,other,101-150,1000,Trivial Damage,0-10000,0,1,2,2,Parked Car,None,other
+other,Side Collision,101-150,500,Total Loss,40001-50000,6000000,1,0,0,Single Vehicle Collision,Fire,YES
+other,Rear Collision,101-150,1000,Minor Damage,50001-60000,6000000,1,0,1,Single Vehicle Collision,Police,YES
+other,Side Collision,151-200,500,Minor Damage,30001-40000,4000000,3,2,1,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,151-200,1000,Total Loss,50001-60000,0,1,2,0,Single Vehicle Collision,Police,NO
+other,Front Collision,101-150,500,Minor Damage,70001-80000,0,1,1,1,Single Vehicle Collision,Other,YES
+other,Front Collision,201-250,2000,Total Loss,40001-50000,0,3,1,3,Multi-vehicle Collision,Fire,other
+cross-fit,Side Collision,301-350,500,Total Loss,40001-50000,0,3,2,2,Multi-vehicle Collision,Police,NO
+other,Rear Collision,301-350,2000,Minor Damage,40001-50000,0,1,1,3,Single Vehicle Collision,Other,NO
+other,Rear Collision,51-100,1000,Major Damage,40001-50000,0,1,2,2,Single Vehicle Collision,Police,YES
+other,other,301-350,500,Minor Damage,0-10000,0,1,0,3,Vehicle Theft,None,NO
+other,Rear Collision,201-250,1000,Total Loss,30001-40000,5000000,1,2,3,Single Vehicle Collision,Police,NO
+other,Side Collision,51-100,2000,Minor Damage,40001-50000,0,1,0,2,Single Vehicle Collision,Police,YES
+other,Rear Collision,401-450,1000,Minor Damage,20001-30000,6000000,1,2,0,Single Vehicle Collision,Ambulance,YES
+other,Front Collision,251-300,2000,Total Loss,40001-50000,6000000,1,2,2,Single Vehicle Collision,Other,YES
+cross-fit,Side Collision,0-50,1000,Total Loss,40001-50000,0,3,1,0,Multi-vehicle Collision,Other,other
+other,Front Collision,201-250,1000,Major Damage,40001-50000,7000000,1,1,3,Single Vehicle Collision,Fire,NO
+other,Side Collision,251-300,1000,Minor Damage,30001-40000,0,1,1,3,Single Vehicle Collision,Other,NO
+other,Rear Collision,251-300,2000,Major Damage,20001-30000,0,3,1,0,Multi-vehicle Collision,Ambulance,NO
+other,Rear Collision,51-100,500,Minor Damage,30001-40000,3000000,1,1,3,Single Vehicle Collision,Fire,other
+other,Front Collision,451-500,500,Minor Damage,50001-60000,0,1,0,2,Single Vehicle Collision,Police,NO
+other,Front Collision,51-100,2000,Minor Damage,50001-60000,0,3,0,0,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,251-300,500,Total Loss,40001-50000,0,1,0,0,Single Vehicle Collision,Fire,other
+other,Side Collision,201-250,2000,Major Damage,50001-60000,0,3,1,1,Multi-vehicle Collision,Other,YES
+other,Side Collision,101-150,1000,Minor Damage,40001-50000,0,3,0,2,Multi-vehicle Collision,Police,other
+other,Side Collision,151-200,1000,Major Damage,40001-50000,0,1,1,3,Single Vehicle Collision,Ambulance,other
+other,Side Collision,301-350,500,Total Loss,40001-50000,0,1,1,0,Single Vehicle Collision,Other,YES
+other,Rear Collision,451-500,2000,Major Damage,50001-60000,2000000,3,2,1,Multi-vehicle Collision,Ambulance,YES
+other,Rear Collision,51-100,500,Major Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Ambulance,other
+other,other,151-200,1000,Trivial Damage,0-10000,0,1,0,2,Parked Car,None,NO
+other,Side Collision,251-300,500,Major Damage,30001-40000,0,3,0,2,Multi-vehicle Collision,Other,other
+other,other,301-350,1000,Minor Damage,0-10000,0,1,2,2,Parked Car,Police,YES
+chess,other,151-200,1000,Minor Damage,0-10000,0,1,0,0,Parked Car,None,NO
+other,other,151-200,2000,Trivial Damage,0-10000,7000000,1,2,0,Vehicle Theft,None,other
+other,Front Collision,301-350,2000,Minor Damage,40001-50000,0,1,1,0,Single Vehicle Collision,Ambulance,YES
+other,Side Collision,0-50,1000,Minor Damage,30001-40000,0,1,0,2,Single Vehicle Collision,Police,other
+other,Rear Collision,301-350,500,Major Damage,40001-50000,0,4,0,1,Multi-vehicle Collision,Other,other
+other,Front Collision,401-450,1000,Major Damage,30001-40000,0,3,2,1,Multi-vehicle Collision,Other,NO
+other,Side Collision,251-300,1000,Total Loss,30001-40000,0,2,1,2,Multi-vehicle Collision,Police,YES
+other,Front Collision,101-150,2000,Total Loss,50001-60000,0,1,1,3,Single Vehicle Collision,Other,other
+other,other,101-150,2000,Minor Damage,0-10000,6000000,1,1,2,Parked Car,None,other
+chess,Side Collision,401-450,2000,Minor Damage,40001-50000,6000000,4,0,0,Multi-vehicle Collision,Police,YES
+other,Front Collision,301-350,1000,Total Loss,10001-20000,6000000,3,1,0,Multi-vehicle Collision,Other,YES
+other,Rear Collision,51-100,500,Major Damage,50001-60000,0,1,1,0,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,0-50,2000,Total Loss,30001-40000,6000000,1,1,2,Single Vehicle Collision,Fire,other
+other,Side Collision,201-250,1000,Minor Damage,40001-50000,0,3,2,0,Multi-vehicle Collision,Ambulance,other
+other,Front Collision,151-200,2000,Major Damage,30001-40000,0,3,1,2,Multi-vehicle Collision,Other,NO
+other,Side Collision,251-300,2000,Total Loss,30001-40000,6000000,3,1,3,Multi-vehicle Collision,Police,other
+other,Front Collision,0-50,500,Minor Damage,40001-50000,0,1,1,3,Single Vehicle Collision,Police,other
+other,Rear Collision,101-150,2000,Minor Damage,30001-40000,0,3,0,2,Multi-vehicle Collision,Other,YES
+chess,Rear Collision,301-350,2000,Minor Damage,40001-50000,0,1,0,1,Single Vehicle Collision,Ambulance,YES
+other,Front Collision,251-300,2000,Minor Damage,60001-70000,0,1,2,2,Single Vehicle Collision,Police,YES
+other,Front Collision,101-150,500,Minor Damage,30001-40000,0,3,1,0,Multi-vehicle Collision,Fire,YES
+other,Side Collision,201-250,1000,Major Damage,40001-50000,0,1,0,1,Single Vehicle Collision,Ambulance,other
+other,Front Collision,0-50,1000,Total Loss,40001-50000,0,1,1,2,Single Vehicle Collision,Other,other
+other,Side Collision,201-250,2000,Total Loss,40001-50000,5000000,3,0,1,Multi-vehicle Collision,Other,other
+other,Front Collision,101-150,1000,Major Damage,40001-50000,2000000,1,1,2,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,51-100,500,Major Damage,30001-40000,0,1,0,2,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,301-350,1000,Total Loss,40001-50000,3000000,3,0,0,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,151-200,1000,Total Loss,30001-40000,0,3,2,1,Multi-vehicle Collision,Fire,NO
+other,Front Collision,401-450,2000,Total Loss,40001-50000,0,3,1,2,Multi-vehicle Collision,Other,other
+other,Rear Collision,151-200,500,Major Damage,30001-40000,7000000,4,2,2,Multi-vehicle Collision,Other,NO
+other,other,151-200,2000,Minor Damage,0-10000,0,1,2,0,Vehicle Theft,None,NO
+other,Side Collision,401-450,1000,Major Damage,50001-60000,6000000,1,1,0,Single Vehicle Collision,Other,other
+other,Front Collision,251-300,1000,Minor Damage,50001-60000,0,1,0,2,Single Vehicle Collision,Fire,YES
+other,other,0-50,500,Trivial Damage,0-10000,0,1,0,1,Vehicle Theft,Police,YES
+other,Rear Collision,101-150,1000,Minor Damage,50001-60000,6000000,1,1,0,Single Vehicle Collision,Ambulance,YES
+other,Front Collision,351-400,2000,Total Loss,50001-60000,0,2,1,3,Multi-vehicle Collision,Police,NO
+other,Front Collision,251-300,1000,Total Loss,40001-50000,0,1,1,0,Single Vehicle Collision,Fire,other
+other,Rear Collision,151-200,2000,Major Damage,30001-40000,0,3,2,0,Multi-vehicle Collision,Ambulance,NO
+other,Side Collision,351-400,2000,Minor Damage,60001-70000,0,1,0,2,Single Vehicle Collision,Ambulance,NO
+cross-fit,Front Collision,451-500,1000,Minor Damage,60001-70000,0,1,1,3,Single Vehicle Collision,Other,NO
+other,Side Collision,51-100,500,Total Loss,50001-60000,4000000,3,2,3,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,251-300,2000,Minor Damage,30001-40000,0,3,0,3,Multi-vehicle Collision,Police,YES
+other,Side Collision,251-300,500,Total Loss,10001-20000,0,3,0,0,Multi-vehicle Collision,Police,NO
+other,Rear Collision,251-300,2000,Minor Damage,20001-30000,0,1,1,3,Single Vehicle Collision,Fire,YES
+cross-fit,other,251-300,500,Trivial Damage,0-10000,0,1,2,3,Vehicle Theft,None,NO
+other,other,251-300,2000,Minor Damage,0-10000,0,1,0,3,Parked Car,None,NO
+other,other,51-100,1000,Trivial Damage,0-10000,0,1,2,0,Parked Car,Police,YES
+other,Front Collision,251-300,2000,Minor Damage,40001-50000,0,3,2,2,Multi-vehicle Collision,Fire,NO
+other,Front Collision,51-100,1000,Major Damage,70001-80000,0,3,1,2,Multi-vehicle Collision,Fire,YES
+other,other,201-250,1000,Minor Damage,0-10000,0,1,1,2,Vehicle Theft,None,other
+other,Front Collision,101-150,2000,Total Loss,40001-50000,4000000,1,1,3,Single Vehicle Collision,Other,NO
+other,Rear Collision,301-350,500,Total Loss,50001-60000,0,1,0,2,Single Vehicle Collision,Police,YES
+other,Rear Collision,151-200,2000,Total Loss,30001-40000,0,1,1,2,Single Vehicle Collision,Ambulance,YES
+other,other,251-300,500,Trivial Damage,0-10000,0,1,1,3,Vehicle Theft,Police,NO
+other,Side Collision,101-150,500,Minor Damage,60001-70000,5000000,1,2,0,Single Vehicle Collision,Other,other
+chess,Rear Collision,201-250,1000,Major Damage,40001-50000,0,1,2,2,Single Vehicle Collision,Ambulance,other
+other,Front Collision,151-200,1000,Total Loss,40001-50000,0,1,1,0,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,0-50,500,Major Damage,60001-70000,0,1,0,0,Single Vehicle Collision,Other,other
+other,Side Collision,301-350,1000,Minor Damage,40001-50000,0,1,0,0,Single Vehicle Collision,Fire,other
+other,Front Collision,151-200,1000,Major Damage,40001-50000,0,3,0,3,Multi-vehicle Collision,Ambulance,YES
+other,Side Collision,0-50,500,Major Damage,40001-50000,0,4,0,0,Multi-vehicle Collision,Police,other
+cross-fit,Front Collision,201-250,1000,Total Loss,40001-50000,0,1,0,2,Single Vehicle Collision,Ambulance,other
+other,Side Collision,51-100,1000,Minor Damage,40001-50000,4000000,1,1,0,Single Vehicle Collision,Police,NO
+other,Rear Collision,151-200,1000,Major Damage,50001-60000,0,3,0,0,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,451-500,2000,Total Loss,30001-40000,0,1,2,3,Single Vehicle Collision,Fire,NO
+other,Front Collision,251-300,2000,Total Loss,50001-60000,10000000,4,1,2,Multi-vehicle Collision,Ambulance,YES
+other,Side Collision,251-300,500,Total Loss,40001-50000,0,3,0,0,Multi-vehicle Collision,Other,YES
+other,Front Collision,301-350,1000,Major Damage,40001-50000,0,1,1,0,Single Vehicle Collision,Police,NO
+other,Front Collision,101-150,500,Minor Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Other,YES
+other,Rear Collision,151-200,2000,Major Damage,40001-50000,0,1,0,3,Single Vehicle Collision,Fire,other
+other,Side Collision,101-150,500,Total Loss,50001-60000,0,1,1,0,Single Vehicle Collision,Police,NO
+other,Side Collision,51-100,500,Major Damage,30001-40000,0,1,1,2,Single Vehicle Collision,Fire,other
+chess,other,251-300,2000,Trivial Damage,0-10000,6000000,1,2,2,Parked Car,Police,NO
+other,other,201-250,1000,Trivial Damage,0-10000,0,1,1,1,Vehicle Theft,Police,NO
+other,other,51-100,1000,Trivial Damage,0-10000,0,1,2,1,Parked Car,None,YES
+other,Rear Collision,101-150,2000,Total Loss,40001-50000,0,1,0,2,Single Vehicle Collision,Fire,NO
+other,Front Collision,301-350,500,Total Loss,50001-60000,0,3,0,3,Multi-vehicle Collision,Other,NO
+other,Side Collision,151-200,500,Major Damage,40001-50000,0,1,0,0,Single Vehicle Collision,Fire,other
+other,other,101-150,1000,Minor Damage,0-10000,0,1,2,1,Parked Car,None,other
+other,other,151-200,2000,Minor Damage,0-10000,6000000,1,0,0,Parked Car,None,other
+chess,Rear Collision,401-450,500,Total Loss,40001-50000,0,1,1,1,Single Vehicle Collision,Police,other
+other,Rear Collision,151-200,500,Total Loss,30001-40000,6000000,1,2,3,Single Vehicle Collision,Fire,YES
+other,Front Collision,351-400,500,Minor Damage,50001-60000,0,1,2,2,Single Vehicle Collision,Fire,NO
+other,Front Collision,0-50,500,Total Loss,40001-50000,0,1,1,0,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,201-250,500,Major Damage,50001-60000,0,4,0,3,Multi-vehicle Collision,Ambulance,NO
+other,Rear Collision,0-50,500,Minor Damage,30001-40000,5000000,1,0,1,Single Vehicle Collision,Ambulance,other
+other,Side Collision,51-100,1000,Total Loss,40001-50000,0,1,2,0,Single Vehicle Collision,Fire,YES
+other,other,101-150,1000,Trivial Damage,0-10000,0,1,1,0,Parked Car,None,NO
+other,Rear Collision,0-50,500,Total Loss,40001-50000,0,3,2,1,Multi-vehicle Collision,Other,NO
+other,Side Collision,101-150,2000,Minor Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Other,NO
+other,Front Collision,251-300,2000,Minor Damage,60001-70000,0,3,2,0,Multi-vehicle Collision,Police,NO
+other,other,51-100,500,Minor Damage,0-10000,0,1,0,1,Vehicle Theft,Police,YES
+other,Side Collision,101-150,2000,Major Damage,60001-70000,0,1,2,1,Single Vehicle Collision,Ambulance,YES
+other,Side Collision,351-400,500,Total Loss,70001-80000,9000000,1,0,2,Single Vehicle Collision,Other,other
+other,Side Collision,151-200,2000,Minor Damage,50001-60000,0,1,2,3,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,251-300,500,Minor Damage,50001-60000,0,1,2,2,Single Vehicle Collision,Other,NO
+other,Side Collision,401-450,2000,Minor Damage,30001-40000,0,1,0,2,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,451-500,2000,Major Damage,30001-40000,0,3,2,1,Multi-vehicle Collision,Police,other
+other,Side Collision,201-250,500,Total Loss,60001-70000,0,3,2,0,Multi-vehicle Collision,Police,NO
+other,Front Collision,0-50,1000,Total Loss,40001-50000,0,3,2,2,Multi-vehicle Collision,Other,other
+other,Rear Collision,0-50,1000,Major Damage,60001-70000,6000000,1,2,1,Single Vehicle Collision,Police,other
+other,Side Collision,101-150,2000,Major Damage,40001-50000,0,3,0,1,Multi-vehicle Collision,Fire,YES
+other,Side Collision,401-450,1000,Major Damage,30001-40000,0,3,0,0,Multi-vehicle Collision,Ambulance,other
+other,Front Collision,201-250,1000,Minor Damage,30001-40000,5000000,3,2,2,Multi-vehicle Collision,Fire,NO
+other,Side Collision,0-50,2000,Minor Damage,30001-40000,0,3,2,2,Multi-vehicle Collision,Fire,NO
+other,Front Collision,451-500,2000,Major Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Other,NO
+other,Front Collision,201-250,2000,Minor Damage,50001-60000,6000000,3,1,2,Multi-vehicle Collision,Ambulance,NO
+other,Side Collision,351-400,1000,Total Loss,60001-70000,0,3,2,0,Multi-vehicle Collision,Ambulance,YES
+other,other,301-350,1000,Trivial Damage,0-10000,0,1,1,0,Vehicle Theft,None,NO
+chess,other,251-300,1000,Minor Damage,0-10000,7000000,1,2,2,Parked Car,Police,other
+other,Side Collision,151-200,2000,Total Loss,40001-50000,0,3,1,1,Multi-vehicle Collision,Police,NO
+other,Rear Collision,51-100,1000,Major Damage,50001-60000,0,1,0,3,Single Vehicle Collision,Other,YES
+cross-fit,Side Collision,351-400,1000,Total Loss,40001-50000,0,1,0,1,Single Vehicle Collision,Police,YES
+chess,other,401-450,2000,Minor Damage,0-10000,0,1,1,2,Vehicle Theft,Police,NO
+other,Front Collision,301-350,1000,Major Damage,60001-70000,0,1,2,1,Single Vehicle Collision,Fire,NO
+other,Rear Collision,251-300,500,Major Damage,50001-60000,6000000,3,0,2,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,0-50,1000,Minor Damage,40001-50000,0,1,0,0,Single Vehicle Collision,Fire,other
+other,Front Collision,101-150,500,Major Damage,40001-50000,0,3,0,3,Multi-vehicle Collision,Other,other
+other,Rear Collision,201-250,1000,Minor Damage,50001-60000,0,2,2,0,Multi-vehicle Collision,Other,other
+other,Rear Collision,451-500,500,Minor Damage,30001-40000,0,1,2,0,Single Vehicle Collision,Ambulance,other
+other,Front Collision,51-100,2000,Total Loss,30001-40000,0,1,2,1,Single Vehicle Collision,Other,other
+other,Rear Collision,101-150,1000,Total Loss,40001-50000,0,1,0,0,Single Vehicle Collision,Fire,other
+other,Rear Collision,51-100,500,Minor Damage,40001-50000,0,3,0,0,Multi-vehicle Collision,Police,NO
+other,Side Collision,301-350,500,Total Loss,40001-50000,0,1,0,3,Single Vehicle Collision,Other,YES
+cross-fit,Front Collision,0-50,500,Total Loss,50001-60000,0,3,0,2,Multi-vehicle Collision,Ambulance,other
+other,other,151-200,2000,Minor Damage,0-10000,0,1,1,1,Vehicle Theft,None,NO
+other,Front Collision,0-50,1000,Minor Damage,40001-50000,6000000,3,1,3,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,301-350,500,Major Damage,40001-50000,0,3,0,2,Multi-vehicle Collision,Other,NO
+other,Rear Collision,201-250,2000,Minor Damage,40001-50000,0,1,1,2,Single Vehicle Collision,Police,NO
+other,Rear Collision,351-400,2000,Major Damage,40001-50000,0,3,2,3,Multi-vehicle Collision,Other,other
+other,Rear Collision,251-300,1000,Minor Damage,50001-60000,0,1,0,3,Single Vehicle Collision,Other,other
+other,other,301-350,2000,Trivial Damage,0-10000,6000000,1,1,2,Vehicle Theft,Police,NO
+other,Rear Collision,0-50,1000,Minor Damage,20001-30000,0,4,1,1,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,401-450,500,Major Damage,50001-60000,0,1,0,0,Single Vehicle Collision,Police,other
+other,Side Collision,301-350,1000,Minor Damage,50001-60000,0,1,1,1,Single Vehicle Collision,Other,YES
+other,Side Collision,0-50,500,Minor Damage,50001-60000,0,1,2,3,Single Vehicle Collision,Police,YES
+other,Side Collision,0-50,1000,Major Damage,30001-40000,0,1,0,2,Single Vehicle Collision,Police,other
+other,Side Collision,201-250,2000,Major Damage,50001-60000,0,1,1,1,Single Vehicle Collision,Other,NO
+other,Front Collision,301-350,500,Total Loss,30001-40000,8000000,1,1,0,Single Vehicle Collision,Other,other
+other,Rear Collision,51-100,2000,Major Damage,30001-40000,6000000,2,1,0,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,301-350,1000,Minor Damage,30001-40000,6000000,1,2,1,Single Vehicle Collision,Police,NO
+other,Rear Collision,0-50,1000,Minor Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Police,other
+other,Front Collision,51-100,2000,Minor Damage,30001-40000,0,1,2,2,Single Vehicle Collision,Police,YES
+other,Front Collision,51-100,1000,Total Loss,40001-50000,0,3,0,1,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,101-150,2000,Total Loss,50001-60000,0,3,2,0,Multi-vehicle Collision,Police,NO
+other,Rear Collision,201-250,500,Total Loss,60001-70000,0,1,2,0,Single Vehicle Collision,Police,other
+other,other,251-300,1000,Trivial Damage,0-10000,0,1,2,3,Parked Car,Police,NO
+other,Rear Collision,201-250,1000,Total Loss,40001-50000,0,1,2,1,Single Vehicle Collision,Ambulance,YES
+chess,Side Collision,151-200,1000,Minor Damage,30001-40000,0,3,0,2,Multi-vehicle Collision,Ambulance,NO
+cross-fit,Rear Collision,451-500,2000,Total Loss,40001-50000,0,1,0,0,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,251-300,1000,Total Loss,20001-30000,0,1,0,3,Single Vehicle Collision,Other,YES
+other,Front Collision,51-100,1000,Total Loss,30001-40000,0,1,1,2,Single Vehicle Collision,Ambulance,YES
+other,Front Collision,201-250,1000,Major Damage,50001-60000,0,3,1,0,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,201-250,2000,Minor Damage,30001-40000,0,3,1,0,Multi-vehicle Collision,Ambulance,NO
+other,other,251-300,500,Trivial Damage,0-10000,7000000,1,0,1,Vehicle Theft,Police,other
+other,Front Collision,251-300,1000,Total Loss,50001-60000,0,1,0,2,Single Vehicle Collision,Fire,other
+other,Rear Collision,0-50,2000,Total Loss,50001-60000,0,1,1,3,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,201-250,1000,Minor Damage,30001-40000,0,4,0,2,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,51-100,1000,Total Loss,40001-50000,0,3,2,1,Multi-vehicle Collision,Fire,YES
+other,other,251-300,500,Minor Damage,0-10000,0,1,1,2,Parked Car,Police,other
+other,other,0-50,1000,Trivial Damage,0-10000,0,1,1,1,Vehicle Theft,Police,other
+other,Side Collision,301-350,2000,Major Damage,50001-60000,5000000,3,2,0,Multi-vehicle Collision,Ambulance,YES
+other,other,251-300,1000,Trivial Damage,0-10000,0,1,1,1,Vehicle Theft,Police,NO
+other,Front Collision,351-400,500,Total Loss,60001-70000,0,1,0,1,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,0-50,2000,Major Damage,50001-60000,0,1,1,3,Single Vehicle Collision,Police,other
+other,Front Collision,351-400,2000,Minor Damage,60001-70000,5000000,1,2,3,Single Vehicle Collision,Police,YES
+other,Front Collision,351-400,1000,Major Damage,50001-60000,0,1,0,0,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,151-200,1000,Total Loss,50001-60000,0,3,1,3,Multi-vehicle Collision,Other,YES
+other,other,351-400,2000,Minor Damage,0-10000,0,1,0,3,Vehicle Theft,None,NO
+other,Rear Collision,251-300,2000,Total Loss,40001-50000,0,3,1,2,Multi-vehicle Collision,Fire,YES
+other,Side Collision,51-100,1000,Major Damage,30001-40000,0,1,1,0,Single Vehicle Collision,Other,YES
+other,Front Collision,251-300,2000,Major Damage,40001-50000,0,3,1,3,Multi-vehicle Collision,Ambulance,YES
+other,Side Collision,451-500,500,Minor Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Police,NO
+other,other,451-500,1000,Minor Damage,0-10000,0,1,1,3,Parked Car,None,NO
+other,Front Collision,201-250,2000,Total Loss,40001-50000,0,1,0,2,Single Vehicle Collision,Fire,YES
+other,Front Collision,101-150,500,Major Damage,60001-70000,4000000,1,2,2,Single Vehicle Collision,Other,NO
+other,other,201-250,1000,Trivial Damage,0-10000,7000000,1,0,2,Parked Car,Police,YES
+other,Rear Collision,51-100,2000,Major Damage,30001-40000,0,3,1,3,Multi-vehicle Collision,Police,NO
+other,Rear Collision,0-50,1000,Minor Damage,30001-40000,0,3,0,0,Multi-vehicle Collision,Ambulance,YES
+other,Front Collision,251-300,500,Minor Damage,30001-40000,0,1,0,1,Single Vehicle Collision,Fire,other
+other,Front Collision,101-150,1000,Major Damage,50001-60000,0,1,1,3,Single Vehicle Collision,Fire,NO
+other,Side Collision,201-250,2000,Total Loss,40001-50000,0,1,0,2,Single Vehicle Collision,Ambulance,other
+other,Side Collision,301-350,2000,Major Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Other,YES
+other,other,201-250,500,Minor Damage,0-10000,0,1,1,2,Vehicle Theft,Police,NO
+other,Rear Collision,101-150,500,Minor Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,151-200,500,Total Loss,30001-40000,0,3,0,3,Multi-vehicle Collision,Ambulance,NO
+other,Rear Collision,351-400,500,Minor Damage,60001-70000,0,1,0,1,Single Vehicle Collision,Fire,NO
+chess,other,351-400,1000,Minor Damage,0-10000,0,1,2,2,Vehicle Theft,Police,other
+other,other,401-450,1000,Trivial Damage,0-10000,0,1,2,2,Parked Car,Police,NO
+other,Side Collision,201-250,500,Minor Damage,20001-30000,0,3,1,2,Multi-vehicle Collision,Other,YES
+other,Rear Collision,351-400,500,Major Damage,40001-50000,0,1,2,1,Single Vehicle Collision,Other,NO
+other,other,151-200,2000,Trivial Damage,0-10000,0,1,2,3,Vehicle Theft,Police,YES
+other,other,51-100,500,Minor Damage,0-10000,6000000,1,0,2,Vehicle Theft,Police,YES
+other,Side Collision,201-250,500,Total Loss,10001-20000,0,3,2,1,Multi-vehicle Collision,Fire,other
+other,Rear Collision,201-250,2000,Minor Damage,30001-40000,0,3,1,0,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,301-350,500,Total Loss,30001-40000,0,3,1,1,Multi-vehicle Collision,Police,YES
+chess,Front Collision,251-300,2000,Minor Damage,50001-60000,5000000,1,0,0,Single Vehicle Collision,Fire,NO
+other,Front Collision,0-50,2000,Total Loss,40001-50000,0,1,1,3,Single Vehicle Collision,Fire,other
+other,Rear Collision,251-300,2000,Minor Damage,30001-40000,0,1,0,0,Single Vehicle Collision,Police,other
+other,Rear Collision,151-200,2000,Minor Damage,40001-50000,0,4,2,3,Multi-vehicle Collision,Ambulance,YES
+other,Side Collision,401-450,2000,Minor Damage,70001-80000,0,1,2,2,Single Vehicle Collision,Other,YES
+other,Rear Collision,101-150,500,Minor Damage,30001-40000,5000000,1,2,0,Single Vehicle Collision,Fire,YES
+other,Front Collision,351-400,2000,Major Damage,20001-30000,0,3,1,2,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,301-350,1000,Total Loss,50001-60000,0,3,1,1,Multi-vehicle Collision,Other,NO
+other,Front Collision,151-200,500,Total Loss,50001-60000,6000000,1,1,3,Single Vehicle Collision,Other,YES
+other,Rear Collision,151-200,1000,Total Loss,20001-30000,3000000,3,0,1,Multi-vehicle Collision,Ambulance,NO
+other,Side Collision,251-300,1000,Minor Damage,20001-30000,0,3,0,2,Multi-vehicle Collision,Police,YES
+other,Side Collision,101-150,2000,Major Damage,50001-60000,0,3,2,3,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,401-450,2000,Major Damage,40001-50000,0,1,0,2,Single Vehicle Collision,Other,YES
+chess,Side Collision,101-150,500,Total Loss,30001-40000,3000000,1,1,0,Single Vehicle Collision,Other,NO
+other,Front Collision,151-200,1000,Total Loss,50001-60000,0,1,0,2,Single Vehicle Collision,Other,other
+other,Front Collision,251-300,2000,Minor Damage,40001-50000,0,1,2,2,Single Vehicle Collision,Police,NO
+other,Rear Collision,201-250,500,Major Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Other,other
+other,Rear Collision,401-450,1000,Total Loss,30001-40000,0,2,1,3,Multi-vehicle Collision,Police,YES
+other,Side Collision,51-100,500,Major Damage,30001-40000,0,1,2,3,Single Vehicle Collision,Fire,NO
+other,Front Collision,251-300,500,Total Loss,40001-50000,0,1,2,0,Single Vehicle Collision,Other,YES
+other,Side Collision,101-150,500,Major Damage,50001-60000,0,4,2,0,Multi-vehicle Collision,Other,other
+other,Front Collision,101-150,1000,Minor Damage,50001-60000,0,2,2,1,Multi-vehicle Collision,Ambulance,NO
+other,Rear Collision,251-300,2000,Minor Damage,40001-50000,6000000,3,0,1,Multi-vehicle Collision,Fire,other
+other,other,101-150,1000,Trivial Damage,0-10000,0,1,1,2,Parked Car,Police,NO
+other,other,151-200,1000,Minor Damage,0-10000,0,1,1,3,Vehicle Theft,None,NO
+other,other,151-200,1000,Trivial Damage,0-10000,0,1,1,3,Vehicle Theft,Police,YES
+other,Front Collision,451-500,1000,Major Damage,50001-60000,0,2,1,2,Multi-vehicle Collision,Other,NO
+other,Front Collision,451-500,500,Major Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Fire,NO
+other,Side Collision,51-100,1000,Total Loss,50001-60000,0,2,2,3,Multi-vehicle Collision,Other,YES
+chess,Side Collision,201-250,500,Total Loss,50001-60000,0,3,2,1,Multi-vehicle Collision,Ambulance,YES
+other,Rear Collision,0-50,500,Major Damage,50001-60000,0,1,2,1,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,251-300,1000,Total Loss,40001-50000,0,1,2,0,Single Vehicle Collision,Police,other
+other,Side Collision,151-200,500,Major Damage,60001-70000,0,1,1,1,Single Vehicle Collision,Fire,other
+other,Side Collision,151-200,500,Major Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,51-100,500,Major Damage,50001-60000,0,1,1,2,Single Vehicle Collision,Police,YES
+other,other,251-300,500,Trivial Damage,0-10000,0,1,2,0,Parked Car,Police,NO
+chess,other,0-50,500,Trivial Damage,0-10000,5000000,1,2,1,Parked Car,Police,other
+other,Front Collision,251-300,1000,Major Damage,30001-40000,6000000,3,1,3,Multi-vehicle Collision,Ambulance,YES
+other,Front Collision,201-250,1000,Major Damage,40001-50000,5000000,3,1,3,Multi-vehicle Collision,Police,other
+cross-fit,Side Collision,51-100,2000,Minor Damage,30001-40000,0,1,1,2,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,101-150,500,Minor Damage,50001-60000,0,1,2,0,Single Vehicle Collision,Other,other
+chess,Rear Collision,0-50,1000,Total Loss,30001-40000,0,1,2,1,Single Vehicle Collision,Other,other
+other,other,51-100,1000,Trivial Damage,0-10000,4000000,1,2,3,Vehicle Theft,Police,other
+other,Side Collision,51-100,1000,Minor Damage,50001-60000,0,2,0,1,Multi-vehicle Collision,Police,YES
+other,Rear Collision,251-300,1000,Minor Damage,40001-50000,0,1,1,0,Single Vehicle Collision,Other,NO
+other,Side Collision,101-150,1000,Total Loss,40001-50000,0,1,0,3,Single Vehicle Collision,Ambulance,other
+other,other,201-250,1000,Minor Damage,0-10000,4000000,1,0,0,Parked Car,Police,other
+other,Front Collision,251-300,2000,Total Loss,50001-60000,0,4,2,1,Multi-vehicle Collision,Police,other
+other,Front Collision,451-500,500,Minor Damage,40001-50000,0,1,2,0,Single Vehicle Collision,Police,YES
+other,Rear Collision,301-350,1000,Minor Damage,40001-50000,0,3,1,0,Multi-vehicle Collision,Fire,NO
+other,Front Collision,101-150,500,Minor Damage,50001-60000,0,3,2,1,Multi-vehicle Collision,Other,other
+chess,Rear Collision,51-100,500,Total Loss,30001-40000,0,1,1,2,Single Vehicle Collision,Other,YES
+other,Front Collision,51-100,1000,Minor Damage,50001-60000,0,3,0,2,Multi-vehicle Collision,Police,YES
+other,other,101-150,2000,Minor Damage,0-10000,0,1,0,1,Parked Car,Police,NO
+other,Side Collision,151-200,500,Total Loss,40001-50000,0,3,1,0,Multi-vehicle Collision,Other,NO
+other,Side Collision,251-300,500,Major Damage,50001-60000,0,2,2,2,Multi-vehicle Collision,Fire,other
+other,Front Collision,101-150,500,Minor Damage,30001-40000,0,2,2,2,Multi-vehicle Collision,Police,other
+other,Rear Collision,101-150,1000,Total Loss,20001-30000,0,1,1,0,Single Vehicle Collision,Ambulance,other
+other,Front Collision,201-250,2000,Minor Damage,30001-40000,7000000,3,0,3,Multi-vehicle Collision,Ambulance,other
+chess,Side Collision,451-500,500,Minor Damage,30001-40000,0,1,0,0,Single Vehicle Collision,Police,NO
+other,Side Collision,51-100,500,Minor Damage,20001-30000,0,1,2,1,Single Vehicle Collision,Police,YES
+other,other,0-50,1000,Trivial Damage,0-10000,0,1,2,0,Parked Car,Police,other
+other,Rear Collision,201-250,1000,Major Damage,50001-60000,0,1,1,1,Single Vehicle Collision,Fire,NO
+other,other,101-150,500,Minor Damage,0-10000,0,1,1,0,Parked Car,None,NO
+other,Front Collision,401-450,1000,Major Damage,60001-70000,0,1,1,1,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,301-350,2000,Major Damage,50001-60000,5000000,4,1,2,Multi-vehicle Collision,Fire,NO
+other,other,201-250,500,Trivial Damage,0-10000,0,1,0,2,Parked Car,Police,NO
+other,Front Collision,201-250,2000,Major Damage,60001-70000,0,1,2,3,Single Vehicle Collision,Fire,YES
+chess,Side Collision,301-350,2000,Total Loss,40001-50000,0,2,0,2,Multi-vehicle Collision,Other,YES
+other,Front Collision,101-150,500,Minor Damage,50001-60000,0,3,2,1,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,151-200,1000,Total Loss,30001-40000,6000000,2,1,2,Multi-vehicle Collision,Other,NO
+other,Front Collision,251-300,1000,Minor Damage,40001-50000,0,1,0,2,Single Vehicle Collision,Fire,NO
+other,Rear Collision,101-150,2000,Major Damage,40001-50000,0,1,1,2,Single Vehicle Collision,Police,NO
+other,Side Collision,151-200,2000,Major Damage,30001-40000,0,1,0,3,Single Vehicle Collision,Police,YES
+chess,other,101-150,1000,Trivial Damage,0-10000,0,1,0,2,Parked Car,None,YES
+other,other,101-150,2000,Minor Damage,0-10000,0,1,2,1,Vehicle Theft,Police,YES
+other,other,301-350,1000,Trivial Damage,0-10000,0,1,0,2,Vehicle Theft,Police,other
+chess,Side Collision,0-50,500,Major Damage,40001-50000,0,3,1,0,Multi-vehicle Collision,Ambulance,NO
+other,Side Collision,301-350,500,Minor Damage,30001-40000,5000000,2,1,1,Multi-vehicle Collision,Fire,other
+other,Side Collision,151-200,2000,Total Loss,60001-70000,0,1,2,3,Single Vehicle Collision,Police,YES
+other,Rear Collision,351-400,1000,Total Loss,30001-40000,0,3,0,3,Multi-vehicle Collision,Police,NO
+other,Rear Collision,101-150,1000,Major Damage,50001-60000,0,1,2,0,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,151-200,500,Major Damage,30001-40000,0,1,0,1,Single Vehicle Collision,Police,YES
+other,Front Collision,251-300,500,Minor Damage,30001-40000,5000000,1,2,2,Single Vehicle Collision,Other,other
+other,Rear Collision,251-300,2000,Total Loss,40001-50000,0,3,2,1,Multi-vehicle Collision,Fire,YES
+other,Front Collision,151-200,500,Total Loss,50001-60000,0,3,2,3,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,201-250,500,Minor Damage,40001-50000,0,1,1,2,Single Vehicle Collision,Ambulance,NO
+other,other,101-150,1000,Trivial Damage,0-10000,0,1,0,2,Parked Car,None,other
+chess,Side Collision,0-50,1000,Total Loss,30001-40000,0,3,0,2,Multi-vehicle Collision,Ambulance,other
+cross-fit,Side Collision,101-150,500,Major Damage,50001-60000,0,3,0,2,Multi-vehicle Collision,Ambulance,other
+other,Front Collision,101-150,1000,Minor Damage,50001-60000,0,3,1,1,Multi-vehicle Collision,Police,NO
+other,Front Collision,351-400,500,Major Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Other,other
+other,Side Collision,101-150,2000,Minor Damage,50001-60000,6000000,3,1,3,Multi-vehicle Collision,Police,YES
+other,Side Collision,0-50,1000,Minor Damage,30001-40000,4000000,1,1,3,Single Vehicle Collision,Other,YES
+other,Side Collision,201-250,1000,Major Damage,70001-80000,0,1,1,1,Single Vehicle Collision,Other,YES
+other,other,101-150,500,Trivial Damage,0-10000,4000000,1,1,3,Vehicle Theft,Police,NO
+cross-fit,Front Collision,251-300,500,Minor Damage,40001-50000,9000000,3,0,3,Multi-vehicle Collision,Other,NO
+other,Rear Collision,301-350,1000,Minor Damage,40001-50000,7000000,1,2,0,Single Vehicle Collision,Fire,other
+other,Front Collision,101-150,500,Minor Damage,30001-40000,0,1,0,3,Single Vehicle Collision,Ambulance,YES
+other,Front Collision,451-500,2000,Total Loss,40001-50000,0,3,0,0,Multi-vehicle Collision,Police,NO
+other,Side Collision,301-350,1000,Major Damage,40001-50000,0,1,1,3,Single Vehicle Collision,Ambulance,other
+other,Front Collision,201-250,2000,Total Loss,40001-50000,4000000,3,1,0,Multi-vehicle Collision,Police,other
+other,Side Collision,151-200,1000,Total Loss,20001-30000,6000000,3,0,1,Multi-vehicle Collision,Ambulance,NO
+other,Side Collision,301-350,500,Minor Damage,40001-50000,7000000,1,0,1,Single Vehicle Collision,Ambulance,YES
+chess,Front Collision,451-500,500,Total Loss,40001-50000,5000000,1,2,1,Single Vehicle Collision,Ambulance,other
+other,Side Collision,351-400,1000,Major Damage,40001-50000,0,3,2,2,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,201-250,2000,Total Loss,30001-40000,0,1,1,1,Single Vehicle Collision,Ambulance,NO
+other,Rear Collision,251-300,500,Major Damage,40001-50000,0,1,2,2,Single Vehicle Collision,Ambulance,YES
+other,Rear Collision,451-500,2000,Major Damage,40001-50000,0,3,1,3,Multi-vehicle Collision,Other,NO
+other,Rear Collision,201-250,2000,Total Loss,40001-50000,0,3,1,3,Multi-vehicle Collision,Ambulance,other
+other,Front Collision,251-300,2000,Minor Damage,40001-50000,0,1,0,3,Single Vehicle Collision,Fire,other
+other,Rear Collision,51-100,2000,Minor Damage,20001-30000,0,3,1,0,Multi-vehicle Collision,Ambulance,NO
+other,Rear Collision,51-100,1000,Major Damage,20001-30000,0,1,0,1,Single Vehicle Collision,Police,other
+other,other,0-50,1000,Trivial Damage,0-10000,7000000,1,1,1,Vehicle Theft,None,YES
+other,other,0-50,500,Trivial Damage,0-10000,5000000,1,0,2,Vehicle Theft,Police,other
+other,Front Collision,0-50,500,Minor Damage,40001-50000,0,3,2,0,Multi-vehicle Collision,Ambulance,NO
+other,other,101-150,500,Trivial Damage,0-10000,0,1,1,2,Parked Car,None,other
+other,Front Collision,251-300,500,Minor Damage,40001-50000,0,3,0,2,Multi-vehicle Collision,Fire,other
+other,Side Collision,151-200,500,Minor Damage,20001-30000,0,3,2,2,Multi-vehicle Collision,Police,NO
+other,Front Collision,201-250,2000,Total Loss,40001-50000,0,1,2,2,Single Vehicle Collision,Police,YES
+other,other,0-50,2000,Trivial Damage,0-10000,5000000,1,0,0,Parked Car,Police,NO
+other,other,51-100,500,Trivial Damage,0-10000,0,1,0,3,Parked Car,Police,NO
+chess,Rear Collision,201-250,1000,Total Loss,30001-40000,4000000,4,0,0,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,301-350,1000,Major Damage,20001-30000,0,1,1,3,Single Vehicle Collision,Ambulance,NO
+other,Rear Collision,301-350,500,Major Damage,30001-40000,0,1,2,0,Single Vehicle Collision,Fire,other
+other,other,151-200,500,Trivial Damage,0-10000,5000000,1,0,1,Parked Car,None,NO
+other,Rear Collision,201-250,500,Minor Damage,60001-70000,0,3,0,2,Multi-vehicle Collision,Police,other
+other,Side Collision,301-350,1000,Minor Damage,30001-40000,0,3,1,3,Multi-vehicle Collision,Ambulance,YES
+other,Side Collision,0-50,1000,Major Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Police,other
+other,Front Collision,251-300,500,Minor Damage,40001-50000,5000000,1,2,2,Single Vehicle Collision,Police,NO
+other,Front Collision,201-250,1000,Major Damage,30001-40000,0,1,0,2,Single Vehicle Collision,Police,NO
+other,other,101-150,500,Minor Damage,0-10000,0,1,1,1,Parked Car,Police,NO
+other,Side Collision,101-150,1000,Minor Damage,50001-60000,0,3,2,0,Multi-vehicle Collision,Ambulance,YES
+other,Rear Collision,51-100,500,Total Loss,40001-50000,0,3,0,0,Multi-vehicle Collision,Other,YES
+other,other,301-350,2000,Trivial Damage,0-10000,0,1,2,1,Vehicle Theft,Police,NO
+other,Rear Collision,151-200,500,Total Loss,30001-40000,5000000,1,2,1,Single Vehicle Collision,Police,YES
+other,Rear Collision,151-200,2000,Major Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Other,other
+other,other,151-200,500,Trivial Damage,0-10000,0,1,1,0,Vehicle Theft,Police,NO
+other,Front Collision,151-200,2000,Total Loss,50001-60000,0,3,2,2,Multi-vehicle Collision,Police,other
+other,Front Collision,51-100,2000,Major Damage,50001-60000,9000000,2,2,1,Multi-vehicle Collision,Other,other
+other,Rear Collision,151-200,500,Major Damage,20001-30000,0,4,2,1,Multi-vehicle Collision,Fire,NO
+other,other,401-450,500,Minor Damage,0-10000,0,1,1,3,Parked Car,None,other
+cross-fit,Rear Collision,251-300,1000,Total Loss,40001-50000,0,3,1,1,Multi-vehicle Collision,Ambulance,NO
+other,Rear Collision,151-200,1000,Major Damage,30001-40000,0,3,1,3,Multi-vehicle Collision,Fire,NO
+cross-fit,Side Collision,251-300,1000,Minor Damage,40001-50000,0,1,0,0,Single Vehicle Collision,Ambulance,NO
+other,Rear Collision,251-300,1000,Minor Damage,50001-60000,0,1,2,3,Single Vehicle Collision,Fire,YES
+chess,Rear Collision,151-200,1000,Minor Damage,60001-70000,0,1,0,2,Single Vehicle Collision,Ambulance,other
+other,Rear Collision,0-50,2000,Total Loss,40001-50000,0,3,1,3,Multi-vehicle Collision,Ambulance,other
+chess,Front Collision,251-300,2000,Minor Damage,40001-50000,0,1,1,2,Single Vehicle Collision,Ambulance,other
+other,Side Collision,201-250,500,Major Damage,50001-60000,0,1,1,0,Single Vehicle Collision,Ambulance,NO
+other,other,51-100,2000,Minor Damage,0-10000,0,1,2,1,Parked Car,None,NO
+chess,Side Collision,451-500,1000,Major Damage,50001-60000,0,3,1,3,Multi-vehicle Collision,Other,NO
+other,Rear Collision,51-100,2000,Major Damage,30001-40000,5000000,1,2,1,Single Vehicle Collision,Fire,NO
+other,Front Collision,451-500,500,Major Damage,40001-50000,0,1,0,2,Single Vehicle Collision,Fire,other
+other,Rear Collision,101-150,1000,Major Damage,30001-40000,5000000,3,2,3,Multi-vehicle Collision,Ambulance,YES
+other,Front Collision,101-150,500,Total Loss,30001-40000,0,1,2,2,Single Vehicle Collision,Other,YES
+other,Side Collision,0-50,500,Minor Damage,50001-60000,4000000,3,0,3,Multi-vehicle Collision,Ambulance,YES
+other,Front Collision,251-300,2000,Minor Damage,70001-80000,0,1,0,0,Single Vehicle Collision,Other,YES
+other,other,251-300,1000,Trivial Damage,0-10000,0,1,1,0,Vehicle Theft,Police,YES
+other,Front Collision,451-500,2000,Total Loss,30001-40000,0,1,0,0,Single Vehicle Collision,Ambulance,NO
+other,other,101-150,500,Trivial Damage,0-10000,0,1,1,3,Parked Car,None,YES
+other,Side Collision,251-300,2000,Major Damage,50001-60000,0,1,2,1,Single Vehicle Collision,Ambulance,NO
+other,other,101-150,500,Minor Damage,0-10000,0,1,2,3,Parked Car,Police,NO
+other,Side Collision,251-300,500,Total Loss,20001-30000,0,3,0,0,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,151-200,2000,Minor Damage,50001-60000,0,3,2,0,Multi-vehicle Collision,Police,YES
+other,other,251-300,500,Minor Damage,0-10000,0,1,1,3,Parked Car,None,YES
+other,Rear Collision,0-50,500,Major Damage,60001-70000,0,1,0,1,Single Vehicle Collision,Police,YES
+cross-fit,Side Collision,101-150,1000,Major Damage,60001-70000,5000000,1,2,3,Single Vehicle Collision,Fire,other
+other,Front Collision,251-300,1000,Major Damage,30001-40000,0,1,1,0,Single Vehicle Collision,Fire,YES
+other,Side Collision,101-150,500,Major Damage,30001-40000,0,1,0,0,Single Vehicle Collision,Police,NO
+other,Side Collision,201-250,1000,Major Damage,50001-60000,0,1,2,2,Single Vehicle Collision,Ambulance,YES
+other,Front Collision,101-150,2000,Total Loss,50001-60000,0,1,2,3,Single Vehicle Collision,Ambulance,NO
+other,Rear Collision,151-200,500,Total Loss,70001-80000,0,1,0,1,Single Vehicle Collision,Fire,NO
+other,Side Collision,251-300,1000,Minor Damage,40001-50000,6000000,1,2,1,Single Vehicle Collision,Fire,other
+other,Front Collision,301-350,1000,Total Loss,30001-40000,0,3,1,1,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,351-400,500,Total Loss,30001-40000,0,3,2,1,Multi-vehicle Collision,Fire,other
+other,Front Collision,151-200,1000,Total Loss,40001-50000,0,3,2,3,Multi-vehicle Collision,Ambulance,YES
+other,Front Collision,201-250,500,Minor Damage,30001-40000,0,1,0,0,Single Vehicle Collision,Fire,YES
+other,other,201-250,1000,Minor Damage,0-10000,0,1,0,3,Vehicle Theft,None,NO
+other,Rear Collision,401-450,1000,Minor Damage,40001-50000,0,3,1,3,Multi-vehicle Collision,Other,other
+other,Rear Collision,101-150,500,Minor Damage,20001-30000,6000000,1,1,2,Single Vehicle Collision,Other,NO
+other,Side Collision,351-400,1000,Major Damage,50001-60000,0,3,2,1,Multi-vehicle Collision,Other,YES
+other,Front Collision,151-200,500,Major Damage,50001-60000,5000000,3,2,2,Multi-vehicle Collision,Other,YES
+other,Rear Collision,351-400,500,Major Damage,40001-50000,0,4,0,2,Multi-vehicle Collision,Other,NO
+other,Rear Collision,251-300,500,Major Damage,50001-60000,0,3,2,3,Multi-vehicle Collision,Fire,NO
+other,Side Collision,251-300,500,Total Loss,20001-30000,0,3,0,3,Multi-vehicle Collision,Fire,NO
+other,Side Collision,0-50,500,Total Loss,50001-60000,0,3,1,1,Multi-vehicle Collision,Fire,YES
+cross-fit,Side Collision,301-350,1000,Major Damage,30001-40000,0,3,0,3,Multi-vehicle Collision,Fire,other
+other,Side Collision,201-250,2000,Total Loss,50001-60000,0,1,0,1,Single Vehicle Collision,Ambulance,other
+other,other,51-100,500,Minor Damage,0-10000,5000000,1,2,1,Vehicle Theft,Police,NO
+other,Side Collision,201-250,500,Minor Damage,50001-60000,0,1,0,0,Single Vehicle Collision,Fire,YES
+other,Rear Collision,401-450,500,Minor Damage,20001-30000,0,4,0,2,Multi-vehicle Collision,Fire,NO
+other,Rear Collision,451-500,2000,Total Loss,20001-30000,0,3,1,1,Multi-vehicle Collision,Other,YES
+other,Side Collision,51-100,500,Minor Damage,50001-60000,0,3,2,0,Multi-vehicle Collision,Fire,other
+cross-fit,Side Collision,151-200,500,Major Damage,60001-70000,0,3,0,0,Multi-vehicle Collision,Police,other
+other,Rear Collision,51-100,500,Total Loss,40001-50000,0,1,2,3,Single Vehicle Collision,Ambulance,YES
+other,Rear Collision,151-200,1000,Total Loss,30001-40000,0,1,2,3,Single Vehicle Collision,Fire,NO
+other,Front Collision,451-500,500,Minor Damage,50001-60000,0,1,0,2,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,151-200,1000,Minor Damage,30001-40000,0,1,0,3,Single Vehicle Collision,Ambulance,other
+other,Side Collision,51-100,1000,Minor Damage,30001-40000,0,3,2,1,Multi-vehicle Collision,Other,other
+other,Rear Collision,451-500,1000,Major Damage,40001-50000,5000000,3,0,3,Multi-vehicle Collision,Police,other
+other,Rear Collision,251-300,500,Major Damage,40001-50000,6000000,3,2,1,Multi-vehicle Collision,Other,NO
+other,Front Collision,51-100,500,Major Damage,40001-50000,0,3,0,2,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,351-400,1000,Minor Damage,40001-50000,0,3,1,3,Multi-vehicle Collision,Police,NO
+other,Rear Collision,151-200,500,Total Loss,30001-40000,0,1,2,0,Single Vehicle Collision,Ambulance,YES
+other,Rear Collision,201-250,1000,Total Loss,40001-50000,0,3,2,1,Multi-vehicle Collision,Fire,other
+other,Front Collision,251-300,500,Major Damage,40001-50000,0,3,0,0,Multi-vehicle Collision,Ambulance,NO
+other,Rear Collision,451-500,1000,Minor Damage,40001-50000,0,1,2,0,Single Vehicle Collision,Other,YES
+other,Side Collision,151-200,1000,Total Loss,30001-40000,0,3,2,1,Multi-vehicle Collision,Police,YES
+other,Front Collision,251-300,500,Minor Damage,40001-50000,0,3,1,0,Multi-vehicle Collision,Fire,NO
+other,Side Collision,201-250,500,Minor Damage,20001-30000,0,1,1,1,Single Vehicle Collision,Fire,NO
+other,Front Collision,201-250,500,Total Loss,50001-60000,0,1,1,3,Single Vehicle Collision,Ambulance,YES
+other,Rear Collision,151-200,2000,Total Loss,30001-40000,0,3,0,1,Multi-vehicle Collision,Ambulance,YES
+other,Side Collision,51-100,1000,Minor Damage,20001-30000,0,4,1,0,Multi-vehicle Collision,Police,YES
+other,other,51-100,2000,Trivial Damage,0-10000,0,1,1,2,Parked Car,Police,other
+other,Front Collision,451-500,1000,Minor Damage,40001-50000,0,1,2,1,Single Vehicle Collision,Fire,NO
+other,Rear Collision,201-250,500,Total Loss,50001-60000,0,3,0,0,Multi-vehicle Collision,Police,YES
+other,Front Collision,151-200,2000,Total Loss,40001-50000,0,3,2,2,Multi-vehicle Collision,Police,YES
+other,Rear Collision,451-500,1000,Minor Damage,60001-70000,0,3,2,1,Multi-vehicle Collision,Police,NO
+other,Front Collision,451-500,1000,Total Loss,30001-40000,0,1,1,2,Single Vehicle Collision,Fire,YES
+other,Front Collision,51-100,1000,Minor Damage,40001-50000,0,1,0,3,Single Vehicle Collision,Ambulance,other
+other,other,201-250,2000,Minor Damage,0-10000,0,1,0,1,Vehicle Theft,None,other
+other,other,101-150,500,Trivial Damage,0-10000,0,1,0,1,Parked Car,None,NO
+chess,Front Collision,301-350,2000,Total Loss,20001-30000,0,3,0,0,Multi-vehicle Collision,Police,YES
+cross-fit,Front Collision,251-300,2000,Major Damage,30001-40000,0,3,2,1,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,51-100,2000,Minor Damage,40001-50000,0,4,0,0,Multi-vehicle Collision,Fire,NO
+other,Front Collision,101-150,1000,Minor Damage,20001-30000,0,3,1,2,Multi-vehicle Collision,Fire,other
+other,Front Collision,101-150,500,Major Damage,20001-30000,0,1,2,1,Single Vehicle Collision,Fire,YES
+other,Rear Collision,151-200,500,Minor Damage,20001-30000,0,1,0,0,Single Vehicle Collision,Fire,YES
+other,other,201-250,500,Trivial Damage,0-10000,0,1,2,1,Parked Car,None,YES
+cross-fit,Rear Collision,51-100,500,Total Loss,40001-50000,7000000,1,0,2,Single Vehicle Collision,Other,other
+other,Rear Collision,151-200,2000,Total Loss,30001-40000,0,3,0,3,Multi-vehicle Collision,Police,NO
+other,Side Collision,101-150,1000,Total Loss,40001-50000,0,1,0,1,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,301-350,2000,Minor Damage,40001-50000,7000000,3,2,0,Multi-vehicle Collision,Fire,NO
+other,Side Collision,301-350,500,Total Loss,30001-40000,7000000,3,0,3,Multi-vehicle Collision,Fire,YES
+other,Rear Collision,401-450,500,Major Damage,60001-70000,4000000,1,2,3,Single Vehicle Collision,Ambulance,other
+other,Side Collision,101-150,1000,Minor Damage,20001-30000,0,1,0,1,Single Vehicle Collision,Fire,YES
+other,Side Collision,0-50,2000,Major Damage,30001-40000,4000000,1,2,0,Single Vehicle Collision,Fire,other
+other,other,0-50,2000,Trivial Damage,0-10000,0,1,0,1,Parked Car,None,other
+other,Rear Collision,51-100,2000,Minor Damage,20001-30000,0,1,0,3,Single Vehicle Collision,Police,other
+other,Rear Collision,101-150,500,Minor Damage,60001-70000,0,3,2,0,Multi-vehicle Collision,Other,YES
+other,Front Collision,201-250,1000,Total Loss,40001-50000,3000000,1,2,2,Single Vehicle Collision,Police,NO
+chess,Rear Collision,101-150,500,Minor Damage,50001-60000,0,1,1,0,Single Vehicle Collision,Ambulance,YES
+other,other,251-300,2000,Trivial Damage,0-10000,0,1,2,3,Parked Car,None,YES
+other,Rear Collision,301-350,500,Minor Damage,30001-40000,0,1,0,1,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,0-50,1000,Major Damage,30001-40000,0,1,0,1,Single Vehicle Collision,Fire,YES
+other,Rear Collision,151-200,2000,Minor Damage,40001-50000,0,3,2,3,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,101-150,2000,Total Loss,50001-60000,0,1,1,2,Single Vehicle Collision,Fire,NO
+other,Rear Collision,101-150,1000,Major Damage,30001-40000,0,1,2,3,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,251-300,2000,Total Loss,40001-50000,0,3,0,2,Multi-vehicle Collision,Other,YES
+other,other,101-150,1000,Minor Damage,0-10000,0,1,0,3,Vehicle Theft,None,YES
+cross-fit,Front Collision,401-450,1000,Minor Damage,40001-50000,4000000,1,2,0,Single Vehicle Collision,Ambulance,YES
+other,other,251-300,2000,Minor Damage,0-10000,7000000,1,1,2,Vehicle Theft,None,NO
+other,Front Collision,51-100,2000,Total Loss,40001-50000,0,3,0,1,Multi-vehicle Collision,Ambulance,YES
+other,Rear Collision,201-250,500,Total Loss,40001-50000,0,1,0,1,Single Vehicle Collision,Police,NO
+other,Side Collision,101-150,500,Minor Damage,40001-50000,0,4,0,0,Multi-vehicle Collision,Other,other
+other,Rear Collision,251-300,500,Major Damage,50001-60000,0,1,1,1,Single Vehicle Collision,Other,other
+other,other,251-300,1000,Trivial Damage,0-10000,0,1,2,0,Vehicle Theft,Police,other
+other,Side Collision,351-400,2000,Minor Damage,40001-50000,0,1,0,3,Single Vehicle Collision,Other,other
+other,other,51-100,1000,Trivial Damage,0-10000,0,1,0,0,Vehicle Theft,None,other
+other,Side Collision,151-200,500,Minor Damage,30001-40000,0,3,0,0,Multi-vehicle Collision,Fire,other
+other,Front Collision,401-450,500,Minor Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Police,YES
+other,Front Collision,201-250,1000,Major Damage,50001-60000,0,1,2,2,Single Vehicle Collision,Police,YES
+other,Rear Collision,151-200,500,Total Loss,30001-40000,0,1,1,1,Single Vehicle Collision,Ambulance,NO
+other,Front Collision,301-350,2000,Total Loss,40001-50000,0,1,1,1,Single Vehicle Collision,Police,other
+other,Front Collision,151-200,2000,Minor Damage,40001-50000,0,1,0,1,Single Vehicle Collision,Fire,other
+other,Side Collision,51-100,1000,Total Loss,50001-60000,0,3,1,1,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,101-150,500,Major Damage,40001-50000,0,3,2,2,Multi-vehicle Collision,Fire,NO
+chess,Side Collision,101-150,1000,Total Loss,60001-70000,0,3,2,3,Multi-vehicle Collision,Other,NO
+other,Side Collision,151-200,1000,Total Loss,40001-50000,5000000,1,2,0,Single Vehicle Collision,Police,NO
+other,Rear Collision,51-100,2000,Major Damage,50001-60000,0,3,2,0,Multi-vehicle Collision,Police,other
+other,other,301-350,500,Minor Damage,0-10000,0,1,1,3,Vehicle Theft,None,YES
+other,Rear Collision,101-150,500,Total Loss,40001-50000,0,4,0,1,Multi-vehicle Collision,Police,other
+other,other,101-150,2000,Minor Damage,0-10000,0,1,1,1,Vehicle Theft,Police,YES
+other,other,351-400,2000,Minor Damage,0-10000,7000000,1,0,2,Vehicle Theft,None,other
+other,Rear Collision,251-300,1000,Total Loss,50001-60000,0,1,0,1,Single Vehicle Collision,Police,YES
+other,other,0-50,2000,Trivial Damage,0-10000,0,1,0,3,Vehicle Theft,None,YES
+other,Side Collision,151-200,500,Major Damage,30001-40000,0,3,1,1,Multi-vehicle Collision,Fire,other
+other,Rear Collision,201-250,500,Major Damage,30001-40000,0,1,2,2,Single Vehicle Collision,Police,YES
+other,other,251-300,2000,Trivial Damage,0-10000,0,1,0,3,Parked Car,None,other
+other,Rear Collision,201-250,2000,Minor Damage,30001-40000,0,3,1,0,Multi-vehicle Collision,Fire,YES
+other,other,251-300,500,Minor Damage,0-10000,0,1,2,1,Vehicle Theft,Police,other
+other,Front Collision,301-350,1000,Major Damage,40001-50000,0,3,0,2,Multi-vehicle Collision,Other,other
+other,Side Collision,251-300,1000,Minor Damage,20001-30000,0,3,1,3,Multi-vehicle Collision,Police,other
+chess,Side Collision,151-200,2000,Major Damage,40001-50000,0,3,0,1,Multi-vehicle Collision,Ambulance,other
+other,Side Collision,251-300,500,Total Loss,30001-40000,0,1,0,3,Single Vehicle Collision,Fire,other
+other,Side Collision,301-350,1000,Minor Damage,50001-60000,0,3,1,3,Multi-vehicle Collision,Fire,other
+other,Side Collision,401-450,1000,Major Damage,50001-60000,7000000,1,1,2,Single Vehicle Collision,Ambulance,YES
+other,other,351-400,2000,Trivial Damage,0-10000,6000000,1,0,3,Parked Car,Police,NO
+other,Side Collision,0-50,1000,Total Loss,70001-80000,0,3,2,0,Multi-vehicle Collision,Police,YES
+other,Side Collision,251-300,500,Major Damage,30001-40000,0,1,1,2,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,301-350,1000,Total Loss,40001-50000,0,3,2,3,Multi-vehicle Collision,Fire,NO
+chess,Front Collision,251-300,2000,Minor Damage,60001-70000,0,1,1,3,Single Vehicle Collision,Fire,YES
+other,Side Collision,0-50,500,Total Loss,40001-50000,0,3,2,2,Multi-vehicle Collision,Police,other
+other,Rear Collision,201-250,1000,Total Loss,30001-40000,0,3,1,3,Multi-vehicle Collision,Fire,YES
+other,Side Collision,301-350,2000,Minor Damage,50001-60000,0,3,0,1,Multi-vehicle Collision,Fire,NO
+other,Front Collision,251-300,2000,Minor Damage,40001-50000,0,1,0,1,Single Vehicle Collision,Fire,NO
+other,Side Collision,201-250,1000,Minor Damage,20001-30000,0,3,2,3,Multi-vehicle Collision,Other,YES
+other,Side Collision,101-150,2000,Total Loss,30001-40000,0,3,2,3,Multi-vehicle Collision,Other,other
+other,Rear Collision,201-250,1000,Minor Damage,30001-40000,0,3,1,2,Multi-vehicle Collision,Other,YES
+other,Side Collision,201-250,1000,Minor Damage,60001-70000,0,3,0,2,Multi-vehicle Collision,Other,YES
+other,Rear Collision,301-350,1000,Minor Damage,40001-50000,0,1,2,0,Single Vehicle Collision,Ambulance,other
+other,Front Collision,51-100,1000,Minor Damage,50001-60000,0,3,0,2,Multi-vehicle Collision,Other,other
+other,Front Collision,401-450,2000,Total Loss,30001-40000,0,1,2,1,Single Vehicle Collision,Fire,other
+other,Rear Collision,201-250,500,Major Damage,40001-50000,0,1,1,3,Single Vehicle Collision,Fire,YES
+other,Front Collision,151-200,1000,Minor Damage,40001-50000,0,1,1,0,Single Vehicle Collision,Fire,NO
+other,Rear Collision,201-250,1000,Total Loss,40001-50000,0,2,0,3,Multi-vehicle Collision,Ambulance,YES
+chess,Front Collision,251-300,2000,Minor Damage,40001-50000,6000000,3,1,2,Multi-vehicle Collision,Other,YES
+other,Rear Collision,51-100,500,Major Damage,20001-30000,0,3,1,3,Multi-vehicle Collision,Police,other
+other,Front Collision,251-300,500,Total Loss,50001-60000,0,1,1,0,Single Vehicle Collision,Fire,other
+other,other,101-150,500,Minor Damage,0-10000,0,1,2,0,Parked Car,None,YES
+chess,Side Collision,301-350,1000,Major Damage,40001-50000,0,3,0,0,Multi-vehicle Collision,Ambulance,YES
+other,Rear Collision,301-350,2000,Major Damage,20001-30000,0,1,0,2,Single Vehicle Collision,Ambulance,YES
+other,Side Collision,201-250,500,Minor Damage,40001-50000,0,1,1,0,Single Vehicle Collision,Other,YES
+other,Side Collision,201-250,1000,Major Damage,30001-40000,8000000,1,0,2,Single Vehicle Collision,Ambulance,NO
+other,other,251-300,500,Trivial Damage,0-10000,0,1,1,2,Vehicle Theft,Police,other
+other,Front Collision,401-450,1000,Total Loss,40001-50000,4000000,3,2,3,Multi-vehicle Collision,Other,other
+other,Rear Collision,151-200,2000,Major Damage,30001-40000,0,3,1,3,Multi-vehicle Collision,Fire,NO
+other,Front Collision,351-400,500,Total Loss,30001-40000,4000000,1,2,1,Single Vehicle Collision,Other,other
+other,Front Collision,101-150,500,Major Damage,50001-60000,0,1,1,1,Single Vehicle Collision,Fire,NO
+other,Rear Collision,401-450,2000,Major Damage,20001-30000,0,1,1,3,Single Vehicle Collision,Fire,YES
+other,Rear Collision,0-50,1000,Total Loss,50001-60000,0,1,0,0,Single Vehicle Collision,Police,NO
+other,Side Collision,101-150,1000,Major Damage,30001-40000,0,3,0,3,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,251-300,1000,Minor Damage,40001-50000,0,1,2,2,Single Vehicle Collision,Fire,other
+other,Rear Collision,251-300,500,Total Loss,50001-60000,0,3,0,0,Multi-vehicle Collision,Police,other
+other,Front Collision,101-150,1000,Total Loss,40001-50000,0,1,1,0,Single Vehicle Collision,Fire,YES
+other,other,451-500,500,Minor Damage,0-10000,4000000,1,0,0,Parked Car,None,NO
+chess,Rear Collision,351-400,500,Major Damage,40001-50000,0,1,1,2,Single Vehicle Collision,Fire,YES
+other,Side Collision,151-200,2000,Major Damage,40001-50000,0,3,2,0,Multi-vehicle Collision,Ambulance,NO
+other,Side Collision,151-200,1000,Total Loss,30001-40000,0,1,2,0,Single Vehicle Collision,Ambulance,NO
+other,Rear Collision,451-500,1000,Total Loss,30001-40000,0,2,0,3,Multi-vehicle Collision,Other,other
+other,other,201-250,1000,Trivial Damage,0-10000,0,1,2,1,Vehicle Theft,None,NO
+other,other,0-50,500,Minor Damage,0-10000,0,1,0,0,Vehicle Theft,None,other
+other,other,0-50,500,Minor Damage,0-10000,0,1,1,3,Parked Car,None,other
+other,Front Collision,151-200,500,Major Damage,30001-40000,0,3,0,3,Multi-vehicle Collision,Fire,other
+other,other,251-300,500,Trivial Damage,0-10000,0,1,0,3,Parked Car,None,YES
+other,Front Collision,151-200,500,Minor Damage,40001-50000,0,3,2,0,Multi-vehicle Collision,Police,other
+other,Rear Collision,201-250,500,Major Damage,40001-50000,0,1,0,1,Single Vehicle Collision,Police,NO
+other,other,101-150,500,Minor Damage,0-10000,0,1,1,3,Vehicle Theft,None,other
+other,Side Collision,0-50,2000,Total Loss,50001-60000,0,1,0,3,Single Vehicle Collision,Other,NO
+other,Side Collision,0-50,500,Total Loss,30001-40000,5000000,1,0,0,Single Vehicle Collision,Police,NO
+other,Side Collision,51-100,1000,Minor Damage,40001-50000,0,3,2,1,Multi-vehicle Collision,Fire,NO
+other,Side Collision,101-150,500,Minor Damage,40001-50000,0,1,2,3,Single Vehicle Collision,Other,NO
+other,Side Collision,101-150,500,Total Loss,50001-60000,0,3,2,1,Multi-vehicle Collision,Other,YES
+other,Side Collision,101-150,1000,Major Damage,50001-60000,0,3,1,2,Multi-vehicle Collision,Fire,other
+other,Rear Collision,201-250,1000,Major Damage,50001-60000,0,3,2,0,Multi-vehicle Collision,Police,YES
+other,Front Collision,401-450,2000,Minor Damage,60001-70000,0,3,1,2,Multi-vehicle Collision,Fire,other
+other,other,251-300,2000,Minor Damage,0-10000,0,1,1,0,Vehicle Theft,Police,other
+other,Rear Collision,201-250,1000,Total Loss,20001-30000,0,3,0,2,Multi-vehicle Collision,Other,NO
+other,Side Collision,251-300,2000,Minor Damage,20001-30000,0,1,1,2,Single Vehicle Collision,Police,YES
+other,Front Collision,101-150,2000,Total Loss,40001-50000,0,2,0,1,Multi-vehicle Collision,Police,YES
+other,Rear Collision,151-200,500,Major Damage,30001-40000,0,3,2,1,Multi-vehicle Collision,Police,YES
+other,Side Collision,251-300,2000,Minor Damage,70001-80000,0,1,1,1,Single Vehicle Collision,Fire,NO
+cross-fit,Front Collision,101-150,2000,Major Damage,40001-50000,0,4,0,2,Multi-vehicle Collision,Fire,YES
+chess,Rear Collision,201-250,500,Major Damage,60001-70000,0,1,2,0,Single Vehicle Collision,Fire,other
+other,other,151-200,500,Trivial Damage,0-10000,0,1,1,1,Vehicle Theft,None,YES
+chess,Side Collision,201-250,2000,Major Damage,40001-50000,3000000,1,1,3,Single Vehicle Collision,Other,NO
+other,Front Collision,151-200,500,Minor Damage,50001-60000,0,3,2,1,Multi-vehicle Collision,Ambulance,other
+chess,Rear Collision,151-200,1000,Minor Damage,50001-60000,0,3,1,0,Multi-vehicle Collision,Police,other
+other,Rear Collision,201-250,1000,Total Loss,30001-40000,0,1,1,0,Single Vehicle Collision,Other,YES
+other,Rear Collision,151-200,500,Minor Damage,40001-50000,0,3,0,3,Multi-vehicle Collision,Other,NO
+other,other,51-100,500,Minor Damage,0-10000,8000000,1,0,3,Vehicle Theft,Police,NO
+other,Rear Collision,51-100,2000,Total Loss,50001-60000,0,1,1,0,Single Vehicle Collision,Other,YES
+other,Rear Collision,101-150,2000,Minor Damage,20001-30000,0,3,0,1,Multi-vehicle Collision,Ambulance,NO
+other,other,251-300,2000,Minor Damage,0-10000,0,1,2,3,Vehicle Theft,Police,NO
+other,Front Collision,201-250,1000,Total Loss,60001-70000,0,1,0,3,Single Vehicle Collision,Fire,YES
+other,Front Collision,151-200,500,Major Damage,50001-60000,0,1,1,3,Single Vehicle Collision,Other,YES
+other,other,51-100,2000,Trivial Damage,0-10000,0,1,1,3,Vehicle Theft,Police,other
+other,Side Collision,101-150,500,Major Damage,30001-40000,0,1,0,0,Single Vehicle Collision,Police,NO
+other,Rear Collision,301-350,500,Major Damage,30001-40000,0,4,0,2,Multi-vehicle Collision,Police,NO
+other,Side Collision,101-150,2000,Total Loss,40001-50000,0,3,1,1,Multi-vehicle Collision,Fire,other
+other,Side Collision,251-300,500,Minor Damage,30001-40000,0,3,2,1,Multi-vehicle Collision,Other,YES
+other,Side Collision,0-50,1000,Minor Damage,30001-40000,0,3,1,3,Multi-vehicle Collision,Ambulance,other
+other,Rear Collision,151-200,1000,Major Damage,40001-50000,5000000,3,1,3,Multi-vehicle Collision,Ambulance,other
+cross-fit,Side Collision,151-200,1000,Total Loss,40001-50000,0,4,2,3,Multi-vehicle Collision,Other,YES
+other,Front Collision,201-250,1000,Minor Damage,40001-50000,7000000,1,1,0,Single Vehicle Collision,Police,other
+other,Front Collision,451-500,1000,Total Loss,40001-50000,0,1,2,2,Single Vehicle Collision,Police,YES
+other,Front Collision,151-200,500,Major Damage,60001-70000,6000000,1,0,0,Single Vehicle Collision,Other,other
+other,Rear Collision,251-300,2000,Major Damage,30001-40000,6000000,3,1,0,Multi-vehicle Collision,Other,other
+other,other,301-350,1000,Minor Damage,0-10000,6000000,1,1,1,Parked Car,None,YES
+other,Side Collision,251-300,500,Major Damage,20001-30000,0,3,0,0,Multi-vehicle Collision,Fire,other
+other,other,101-150,2000,Minor Damage,0-10000,6000000,1,1,3,Parked Car,None,NO
+other,Front Collision,401-450,2000,Minor Damage,50001-60000,0,3,0,0,Multi-vehicle Collision,Police,NO
+other,Side Collision,251-300,1000,Total Loss,50001-60000,0,1,1,3,Single Vehicle Collision,Police,YES
+other,Front Collision,401-450,500,Total Loss,40001-50000,0,3,0,2,Multi-vehicle Collision,Police,NO
+other,Side Collision,0-50,2000,Major Damage,40001-50000,4000000,1,2,0,Single Vehicle Collision,Fire,other
+other,Side Collision,451-500,500,Minor Damage,30001-40000,6000000,1,0,3,Single Vehicle Collision,Other,other
+other,Front Collision,101-150,1000,Total Loss,40001-50000,0,1,1,1,Single Vehicle Collision,Police,NO
+other,Side Collision,401-450,1000,Total Loss,40001-50000,5000000,3,2,3,Multi-vehicle Collision,Police,YES
+other,other,101-150,500,Minor Damage,0-10000,6000000,1,1,0,Parked Car,None,NO
+other,Side Collision,151-200,1000,Total Loss,40001-50000,5000000,1,0,3,Single Vehicle Collision,Ambulance,other
+other,Front Collision,251-300,2000,Total Loss,50001-60000,0,3,0,2,Multi-vehicle Collision,Other,NO
+other,other,201-250,2000,Minor Damage,0-10000,0,1,1,0,Vehicle Theft,None,YES
+other,Rear Collision,251-300,1000,Minor Damage,30001-40000,0,1,0,3,Single Vehicle Collision,Ambulance,other
+other,Side Collision,151-200,500,Total Loss,30001-40000,0,1,0,0,Single Vehicle Collision,Other,NO
+other,Side Collision,51-100,2000,Total Loss,50001-60000,0,3,0,3,Multi-vehicle Collision,Police,YES
+other,Rear Collision,201-250,2000,Minor Damage,50001-60000,4000000,1,2,1,Single Vehicle Collision,Police,NO
+other,Front Collision,0-50,1000,Major Damage,30001-40000,0,3,1,3,Multi-vehicle Collision,Fire,NO
+other,other,101-150,500,Minor Damage,0-10000,0,1,0,0,Vehicle Theft,Police,YES
+other,Rear Collision,201-250,500,Minor Damage,40001-50000,0,3,1,2,Multi-vehicle Collision,Ambulance,YES
+other,other,101-150,1000,Trivial Damage,0-10000,0,1,2,0,Vehicle Theft,Police,other
+other,Rear Collision,151-200,1000,Total Loss,50001-60000,0,1,0,2,Single Vehicle Collision,Police,other
+other,other,101-150,500,Minor Damage,0-10000,0,1,0,0,Vehicle Theft,Police,YES
+cross-fit,other,151-200,1000,Minor Damage,0-10000,4000000,1,2,1,Vehicle Theft,Police,YES
+other,Front Collision,51-100,1000,Minor Damage,70001-80000,0,1,0,0,Single Vehicle Collision,Other,NO
+other,Rear Collision,51-100,2000,Minor Damage,40001-50000,5000000,3,0,0,Multi-vehicle Collision,Other,other
+other,Rear Collision,151-200,1000,Major Damage,30001-40000,6000000,1,1,2,Single Vehicle Collision,Police,NO
+other,Side Collision,351-400,2000,Major Damage,30001-40000,0,3,2,2,Multi-vehicle Collision,Police,YES
+other,other,401-450,500,Trivial Damage,0-10000,0,1,2,3,Vehicle Theft,Police,other
+other,Side Collision,201-250,500,Total Loss,50001-60000,0,1,2,0,Single Vehicle Collision,Fire,YES
+other,Front Collision,51-100,500,Total Loss,40001-50000,0,1,2,1,Single Vehicle Collision,Fire,other
+other,Rear Collision,201-250,2000,Major Damage,30001-40000,0,1,1,1,Single Vehicle Collision,Fire,YES
+other,Rear Collision,201-250,1000,Major Damage,30001-40000,0,1,2,3,Single Vehicle Collision,Ambulance,other
+other,Side Collision,201-250,500,Major Damage,70001-80000,0,3,2,1,Multi-vehicle Collision,Police,other
+other,Rear Collision,251-300,500,Total Loss,40001-50000,9000000,2,0,2,Multi-vehicle Collision,Fire,other
+other,Side Collision,101-150,1000,Major Damage,40001-50000,0,3,2,2,Multi-vehicle Collision,Fire,other
+other,Side Collision,251-300,500,Major Damage,40001-50000,4000000,3,1,1,Multi-vehicle Collision,Ambulance,NO
+other,Front Collision,51-100,1000,Total Loss,50001-60000,0,1,2,3,Single Vehicle Collision,Other,YES
+other,Rear Collision,201-250,1000,Total Loss,30001-40000,0,1,0,2,Single Vehicle Collision,Other,YES
+other,Rear Collision,251-300,1000,Minor Damage,60001-70000,0,1,0,2,Single Vehicle Collision,Ambulance,YES
+other,Front Collision,51-100,2000,Total Loss,40001-50000,0,3,1,2,Multi-vehicle Collision,Police,NO
+cross-fit,Front Collision,201-250,2000,Minor Damage,30001-40000,0,3,0,3,Multi-vehicle Collision,Police,YES
+other,other,0-50,1000,Trivial Damage,0-10000,0,1,2,1,Parked Car,Police,other
+cross-fit,Side Collision,151-200,1000,Total Loss,30001-40000,0,1,2,1,Single Vehicle Collision,Ambulance,NO
+other,Side Collision,0-50,1000,Major Damage,60001-70000,0,1,0,2,Single Vehicle Collision,Other,other
+other,Rear Collision,201-250,500,Minor Damage,50001-60000,0,1,2,3,Single Vehicle Collision,Other,other
+other,Side Collision,201-250,2000,Major Damage,40001-50000,4000000,1,0,3,Single Vehicle Collision,Other,other
+other,Rear Collision,301-350,500,Minor Damage,40001-50000,0,1,1,1,Single Vehicle Collision,Fire,NO
+other,Rear Collision,0-50,1000,Total Loss,40001-50000,0,3,1,2,Multi-vehicle Collision,Police,other
+other,Rear Collision,251-300,500,Minor Damage,20001-30000,3000000,1,2,2,Single Vehicle Collision,Fire,YES
+other,Rear Collision,251-300,1000,Total Loss,40001-50000,0,1,0,1,Single Vehicle Collision,Other,NO
+other,Front Collision,51-100,500,Major Damage,20001-30000,0,3,1,2,Multi-vehicle Collision,Fire,YES
+other,Side Collision,101-150,1000,Total Loss,40001-50000,0,3,0,1,Multi-vehicle Collision,Other,other
+other,other,101-150,1000,Minor Damage,0-10000,0,1,1,2,Parked Car,None,YES
+other,Front Collision,0-50,1000,Minor Damage,60001-70000,0,1,0,1,Single Vehicle Collision,Fire,other
+other,Rear Collision,251-300,1000,Major Damage,70001-80000,0,1,2,3,Single Vehicle Collision,Fire,other
+other,Side Collision,101-150,500,Minor Damage,50001-60000,3000000,3,2,3,Multi-vehicle Collision,Police,YES
+other,Rear Collision,451-500,2000,Major Damage,30001-40000,5000000,1,0,1,Single Vehicle Collision,Other,YES
+other,other,451-500,1000,Minor Damage,0-10000,0,1,0,3,Parked Car,Police,other
